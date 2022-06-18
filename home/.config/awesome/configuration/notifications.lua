@@ -24,6 +24,6 @@ end)
 rnotification.connect_signal("request::rules", function()
     rnotification.append_rule {
         rule       = { urgency = "critical" },
-        properties = { bg = colors.black, fg = colors.blue }
+        properties = { bg = colors.black, fg = colors.green }
     }
 end)

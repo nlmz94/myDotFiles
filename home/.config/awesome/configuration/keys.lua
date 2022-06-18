@@ -231,7 +231,7 @@ awful.keyboard.append_global_keybindings({
 	awful.key({}, "XF86AudioPrev", function()
 		awful.util.spawn("playerctl previous", false) end),
 	 
-	-- Brightness Keys :<<<
+	-- Brightness Keys :
 	awful.key({}, "XF86MonBrightnessUp", function()
 		awful.util.spawn("brightnessctl set 2%+", false) end),
 	 
@@ -239,9 +239,8 @@ awful.keyboard.append_global_keybindings({
 		awful.util.spawn("brightnessctl set 2%-", false) end),
 })
 
-
 -- Standard program :
-    awful.keyboard.append_global_keybindings({
+awful.keyboard.append_global_keybindings({
 	-- File Manager :
     awful.key({ ctrl, shift }, "f", function () awful.spawn(string.format("pcmanfm")) end,
 		{description = "pcmanfm", group = "file manager"}),

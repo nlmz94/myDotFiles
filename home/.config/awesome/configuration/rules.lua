@@ -88,6 +88,12 @@ ruled.client.connect_signal("request::rules", function()
         rule_any   = { type = { "normal", "dialog" } },
         properties = { titlebars_enabled = true      }
     }
+
+    -- Set Firefox to always map on the tag named "2" on screen 1.
+    -- ruled.client.append_rule {
+    --     rule       = { class = "Firefox"     },
+    --     properties = { screen = 1, tag = "2" }
+    -- }
 end)
 
 ruled.notification.connect_signal('request::rules', function()
@@ -97,7 +103,7 @@ ruled.notification.connect_signal('request::rules', function()
         properties = {
             screen           = awful.screen.preferred,
             implicit_timeout = 5,
-            position         = "bottom_right",
+            position         = "top_right",
         }
     }
 end)
@@ -105,6 +111,6 @@ end)
 -- Round Corners :
 client.connect_signal("manage", function (c)
     c.shape = function(cr,w,h)
-        gears.shape.rounded_rect(cr,w,h,12)
+        gears.shape.rounded_rect(cr,w,h,8)
     end
 end)

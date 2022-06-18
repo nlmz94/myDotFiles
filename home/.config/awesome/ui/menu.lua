@@ -21,16 +21,27 @@ myawesomemenu = {
    { "Quit", function() awesome.quit() end },
 }
 
+virtualization = {
+	{ "Virt-Manager", 'virt-manager', icon_dir .. 'virt-manager.svg' },
+	--{ "Vmware Workstation", 'vmware', icon_dir .. 'vmware-workstation.svg' },
+}
+
 texteditor = {
 	{ "Text Editor", 'geany', icon_dir .. 'geany.svg' },
 	{ "Cherrytree", 'cherrytree', icon_dir .. 'cherrytree.svg' },
-	{ "Code Editor", 'code', icon_dir .. 'code.svg' },
+	{ "Code Editor", 'vscodium', icon_dir .. 'code.svg' },
 }
 
 internet = {
-	{ "Firefox Dev", 'firefox-development-edition', icon_dir .. 'firefox.svg' },
+	{ "Firefox Dev", 'firefox-developer-edition', icon_dir .. 'firefox.svg' },
+	{ "Tor Browser", 'torbrowser-launcher', icon_dir .. 'tor-browser.svg' },
 	{ "Qbittorrent", 'qbittorrent', icon_dir .. 'qbittorrent.svg' },
 	{ "ThunderBird", 'thunderbird', icon_dir .. 'thunderbird.svg' },
+}
+
+appimages = {
+	{ "Session", 'session', icon_dir .. 'session-desktop.svg' },
+	{ "Stacer", 'stacer', icon_dir .. 'stacer.svg' },
 }
 
 media = {
@@ -61,6 +72,7 @@ applications = {
 
 
 powermenu = {
+	{ "Lock", function() awful.spawn.with_shell('notify-send "👉 Locking system " && sleep 1 && slock') end, icon_dir .. 'system-lock-screen.svg' },
 	{ "Logout", function() awful.spawn.with_shell('notify-send "👉 Loging out " && sleep 1 && loginctl terminate-session ${XDG_SESSION_ID-}') end, icon_dir .. 'system-log-out.svg' },
 	{ "Suspend", function() awful.spawn.with_shell('notify-send "👉 Suspending 鈴" && sleep 1 && systemctl suspend') end, icon_dir .. 'system-suspend.svg' },
 	{ "Hibernate", function() awful.spawn.with_shell('notify-send "👉 Hibernateing " && sleep 1 && systemctl hibernate') end, icon_dir .. 'system-hibernate.svg' },

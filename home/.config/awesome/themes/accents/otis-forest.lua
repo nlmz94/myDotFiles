@@ -5,8 +5,6 @@
 -- requirements
 -- ~~~~~~~~~~~~
 local gfs = require("gears.filesystem")
--- requirements
--- ~~~~~~~~~~~~
 local theme_assets = require("beautiful.theme_assets")
 local xresources = require("beautiful.xresources")
 local rnotification = require("ruled.notification")
@@ -51,6 +49,7 @@ colors.brightcyan 								= "#8abeb7"
 colors.brightwhite 								= "#c5c8c6"
 -- Transparent
 colors.transparent 								= "#00000000"
+colors.container 								= "#212930"
 
 theme = {}
 
@@ -62,7 +61,7 @@ theme.bg_normal 								= colors.brightblack
 theme.bg_focus  								= colors.brightblack
 theme.bg_urgent     							= colors.black
 theme.bg_minimize   							= colors.black
-theme.bg_systray    							= colors.brightblack
+theme.bg_systray    							= colors.black
 theme.systray_icon_spacing 						= dpi(4)
 
 -- Taglist :
@@ -95,12 +94,12 @@ theme.tasklist_disable_task_name 				= false
 theme.tasklist_disable_icon 					= true
 
 -- Notifications:
-theme.notification_position 					= "bottom_right"
+theme.notification_position 					= "top_right"
 theme.notification_bg 							= colors.black
-theme.notification_margin 						= dpi(5)
-theme.notification_border_width 				= dpi(0)
+theme.notification_margin 						= dpi(10)
+theme.notification_border_width 				= dpi(10)
 theme.notification_border_color	 				= colors.blue
-theme.notification_spacing = dpi(5)
+theme.notification_spacing 						= dpi(10)
 theme.notification_icon_resize_strategy 		= "center"
 theme.notification_icon_size 					= dpi(32)
 
@@ -195,7 +194,6 @@ theme.titlebar_maximized_button_focus_active_hover  	= tip.. "maximized_focus_ac
 
 -- Wallpaper :
 theme.wallpaper 								= themes_path.."wallpapers/background.png"
-theme.pfp 										= oip .. "profile.png"
 
 -- Layoutbox icons :
 theme.layout_fairh 								= lip.. "fairh.png"
