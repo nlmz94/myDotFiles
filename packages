@@ -11,11 +11,10 @@ echo ""
 read -p "Do you want to install awesome-wm ? [y/n] : " answer
 if [[ $answer = y ]] ; then
 	printf "${Cyan}Installing awesome ${No}"
-	#doas pacman -Sy --needed awesome
 	yay -Sy --needed awesome-git
 fi
 echo -e "${Cyan}Installing Packeges ...${No}"
-sudo pacman -Sy --needed xcompmgr xdotool acpi xsel xfce4-power-manager lxappearance nitrogen feh kitty pacman-contrib xclip rsync dunst arandr sxhkd pcmanfm-gtk3 obs-studio pamixer brightnessctl maim gnome-disk-utility cups xcalib exa ghex cherrytree mpv audacious gst-libav net-tools gpick gdb curl wget alacritty terminator python-pip tk xterm tor cmatrix htop neofetch zsh veracrypt engrampa p7zip unzip cdrtools gufw android-tools ranger rofi geany neovim inetutils dnsutils macchanger zathura zathura-ps zathura-djvu zathura-pdf-poppler qt5ct qt6ct kvantum-qt5 ffmpegthumbnailer tumbler grub-customizer mtpfs gvfs-mtp gvfs-gphoto2 qbittorrent btop qalculate-gtk volumeicon remmina freerdp qt5-tools python-pyqt5 qt6-tools python-pyqt6 intel-media-driver mesa-utils rhash libva-utils numlockx
+sudo pacman -Sy --needed xcompmgr xdotool acpi xsel xfce4-power-manager lxappearance nitrogen feh kitty pacman-contrib xclip rsync dunst arandr sxhkd pcmanfm-gtk3 obs-studio pamixer brightnessctl maim gnome-disk-utility cups xcalib exa ghex cherrytree mpv audacious gst-libav net-tools gpick gdb curl wget alacritty terminator python-pip tk xterm tor cmatrix htop neofetch zsh veracrypt engrampa p7zip unzip cdrtools gufw android-tools ranger rofi rofi-emoji geany neovim inetutils dnsutils macchanger zathura zathura-ps zathura-djvu zathura-pdf-poppler qt5ct qt6ct kvantum-qt5 ffmpegthumbnailer tumbler grub-customizer mtpfs gvfs-mtp gvfs-gphoto2 qbittorrent btop qalculate-gtk volumeicon remmina freerdp qt5-tools python-pyqt5 qt6-tools python-pyqt6 intel-media-driver mesa-utils rhash libva-utils numlockx
 
 echo "QT_QPA_PLATFORMTHEME=qt5ct" | sudo tee -a /etc/environment
 echo -e "${Green}Installing Packages Done ${No}"
@@ -33,7 +32,7 @@ echo ""
 echo -e "${Cyan}Installing Aur Packeges ... ${No}"
 yay -Sy --needed libxft-bgra bcm43142a0-firmware aic94xx-firmware xkb-switch scrcpy jmtpfs shell-color-scripts papirus-icon-theme papirus-folders ueberzug yt-dlp picom-jonaburg-git
 libtool --finish /usr/lib
-#doas papirus-folders -C yaru --theme Papirus-Dark
+#sudo papirus-folders -C yaru --theme Papirus-Dark
 sudo papirus-folders -C bluegrey --theme Papirus-Dark
 
 echo -e "${Green}Installing Aur Packeges Done ${No}"
