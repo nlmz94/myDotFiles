@@ -1,0 +1,20 @@
+[2022-06-18 14:06:05.824] [renderer1] [info] Settings Sync: Updated current session 3c4b9352-d3d3-4ad8-a861-e8a679d36044
+[2022-06-18 14:06:14.327] [renderer1] [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+[2022-06-18 14:06:14.602] [renderer1] [warning] [vscjava.vscode-maven]: Cannot register 'maven.executable.path'. This property is already registered.
+[2022-06-18 14:06:19.276] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-06-18 14:06:19.733] [renderer1] [warning] [redhat.vscode-xml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+[2022-06-18 14:06:22.137] [renderer1] [error] Could not find category with ID: ms-vscode.cpptools#cppWelcome: Error: Could not find category with ID: ms-vscode.cpptools#cppWelcome
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3102:104662
+    at m.invoke (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:145)
+    at s.deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:2265)
+    at o.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:1843)
+    at N.progressStep (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2135:29627)
+    at N.registerDoneListeners (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2135:32167)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2135:30485
+    at Array.forEach (<anonymous>)
+    at N._registerWalkthrough (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2135:30267)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2135:27650
+    at async Promise.all (index 0)
+    at async N.registerExtensionWalkthroughContributions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2135:25168)
+    at async Promise.all (index 0)
+    at async m._handler (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2135:21409)

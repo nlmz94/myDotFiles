@@ -1,0 +1,28 @@
+#!/bin/sh
+
+# rofi power menu 
+#
+OPT=$(echo -e " lockscreen\n logout\n鈴 suspend\n hibernate\n reboot\n poweroff" | rofi -dmenu -i -l 7 )
+#OPT=$(echo -e "lockscreen\nlogout\nsuspend\nhibernate\nreboot\npoweroff" | rofi -dmenu -i )
+
+# systemd
+case $OPT in
+	" lockscreen") notify-send "👉 Locking the screen " && sleep 1 && loginctl lock-session ${XDG_SESSION_ID-};;
+	" logout") notify-send "👉 Loging out " && sleep 1 && loginctl terminate-session ${XDG_SESSION_ID-};;
+	"鈴 suspend") notify-send "👉 Suspending 鈴" && sleep 1 && systemctl suspend   ;;
+	" hibernate") notify-send "👉 Hibernateing " && sleep 1 && systemctl hibernate ;;
+	" reboot") notify-send "👉 Rebooting " && sleep 1 && reboot ;;
+	" poweroff") notify-send "👉 Powering Off " && sleep 1 && poweroff ;;
+	*) ;;
+esac
+
+# runit :
+#case $OPT in
+#	" lockscreen") notify-send "👉 Locking the screen " && sleep 1 && loginctl lock-session ${XDG_SESSION_ID-};;
+#	" logout") notify-send "👉 Loging out " && sleep 1 && loginctl terminate-session ${XDG_SESSION_ID-};;
+#	"鈴 suspend") notify-send "👉 Suspending 鈴" && sleep 1 && loginctl suspend   ;;
+#	" hibernate") notify-send "👉 Hibernateing " && sleep 1 && loginctl hibernate ;;
+#	" reboot") notify-send "👉 Rebooting " && sleep 1 && loginctl reboot ;;
+#	" poweroff") notify-send "👉 Powering Off " && sleep 1 && loginctl poweroff ;;
+#	*) ;;
+#esac

@@ -1,0 +1,63 @@
+{
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"explorer.confirmDelete": false,
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"editor.fontSize": 18,
+	"files.autoSave": "onFocusChange",
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"[python]": {
+		"editor.defaultFormatter": "ms-python.python"
+	},
+	"workbench.iconTheme": "material-icon-theme",
+	"git.autofetch": true,
+	"git.confirmSync": false,
+	"files.exclude": {
+		"**/.classpath": true,
+		"**/.project": true,
+		"**/.settings": true,
+		"**/.factorypath": true
+	},
+	"redhat.telemetry.enabled": true,
+	"gitlens.defaultDateFormat": "DD/MM/YYYY à hh:mm:ss",
+	"editor.cursorBlinking": "smooth",
+	"java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -javaagent:\"/home/nael/.vscode/extensions/gabrielbb.vscode-lombok-1.0.1/server/lombok.jar\"",
+	"[sass]": {
+		"editor.defaultFormatter": "syler.sass-indented"
+	},
+	"tslint.alwaysShowRuleFailuresAsWarnings": true,
+	"tslint.alwaysShowStatus": true,
+	"tslint.autoFixOnSave": true,
+	"tslint.jsEnable": true,
+	"tabnine.experimentalAutoImports": true,
+	"prettier.configPath": ".prettierrc.json",
+	"prettier.useTabs": true,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"gitlens.defaultDateShortFormat": "DD/MMYY",
+	"gitlens.defaultTimeFormat": "HH:mm:ss",
+	"workbench.preferredDarkColorTheme": "SynthWave '84",
+	"editor.fontFamily": "monospace",
+	"terminal.integrated.fontFamily": "monospace",
+	"[terraform]": {
+		"editor.defaultFormatter": "hashicorp.terraform"
+	},
+	"workbench.startupEditor": "none",
+	"liveServer.settings.donotShowInfoMsg": true,
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"liveServer.settings.donotVerifyTags": true,
+	"security.workspace.trust.untrustedFiles": "open",
+	"editor.unicodeHighlight.nonBasicASCII": false,
+	"editor.unicodeHighlight.ambiguousCharacters": false,
+	"[sql]": {
+		"editor.defaultFormatter": "adpyke.vscode-sql-formatter"
+	},
+	"notebook.output.textLineLimit": 300,
+	"[cpp]": {
+		"editor.defaultFormatter": "ms-vscode.cpptools"
+	},
+	"window.zoomLevel": -1
+}

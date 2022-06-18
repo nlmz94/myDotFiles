@@ -1,0 +1,16 @@
+# My Hotkeys
+
+Print
+	maim -m 10 --select | tee ~/Pictures/screenshots/$(date +"%a_%d_%b_%H:%M").png | xclip -sel c -t image/png
+
+super + Print 
+	maim | tee ~/Pictures/screenshots/$(date +"%a_%d_%b_%H:%M").jpg | xclip -sel c -t image/jpg
+
+XF86Audio{RaiseVolume,LowerVolume,Mute}
+	pamixer -{i,d,t} 2; kill -34 $(cat ~/.cache/pidofbar)
+
+XF86MonBrightness{Up,Down}
+	brightnessctl s {+2%,2%-}
+
+super + Escape
+	system_action

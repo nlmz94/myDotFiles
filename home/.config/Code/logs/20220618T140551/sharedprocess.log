@@ -1,0 +1,457 @@
+[2022-06-18 14:05:53.033] [sharedprocess] [info] Starting worker process with pid 14330 (type: fileWatcher, window: 1).
+[2022-06-18 14:06:09.426] [sharedprocess] [info] Getting Manifest... ritwickdey.liveserver
+[2022-06-18 14:06:09.427] [sharedprocess] [info] Getting Manifest... esbenp.prettier-vscode
+[2022-06-18 14:06:09.636] [sharedprocess] [info] Getting Manifest... natqe.reload
+[2022-06-18 14:06:09.676] [sharedprocess] [info] Getting Manifest... ms-mssql.mssql
+[2022-06-18 14:06:09.677] [sharedprocess] [info] Getting Manifest... cschlosser.doxdocgen
+[2022-06-18 14:06:09.752] [sharedprocess] [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+[2022-06-18 14:06:09.760] [sharedprocess] [info] Getting Manifest... eamodio.gitlens
+[2022-06-18 14:06:09.761] [sharedprocess] [info] Getting Manifest... syler.ignore
+[2022-06-18 14:06:09.762] [sharedprocess] [info] Getting Manifest... dbaeumer.vscode-eslint
+[2022-06-18 14:06:09.763] [sharedprocess] [info] Getting Manifest... eg2.vscode-npm-script
+[2022-06-18 14:06:09.764] [sharedprocess] [info] Getting Manifest... ms-mssql.sql-bindings-vscode
+[2022-06-18 14:06:09.766] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-06-18 14:06:09.767] [sharedprocess] [info] Getting Manifest... mhutchie.git-graph
+[2022-06-18 14:06:09.768] [sharedprocess] [info] Getting Manifest... syler.sass-indented
+[2022-06-18 14:06:09.796] [sharedprocess] [info] Getting Manifest... robbowen.synthwave-vscode
+[2022-06-18 14:06:09.820] [sharedprocess] [info] Getting Manifest... ms-mssql.sql-database-projects-vscode
+[2022-06-18 14:06:09.821] [sharedprocess] [info] Getting Manifest... redhat.vscode-xml
+[2022-06-18 14:06:09.821] [sharedprocess] [info] Getting Manifest... pivotal.vscode-spring-boot
+[2022-06-18 14:06:09.822] [sharedprocess] [info] Getting Manifest... xdebug.php-debug
+[2022-06-18 14:06:09.822] [sharedprocess] [info] Getting Manifest... prisma.prisma
+[2022-06-18 14:06:09.823] [sharedprocess] [info] Getting Manifest... mechatroner.rainbow-csv
+[2022-06-18 14:06:09.823] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools-themes
+[2022-06-18 14:06:09.824] [sharedprocess] [info] Getting Manifest... gabrielbb.vscode-lombok
+[2022-06-18 14:06:09.824] [sharedprocess] [info] Getting Manifest... apollographql.vscode-apollo
+[2022-06-18 14:06:09.825] [sharedprocess] [info] Getting Manifest... angular.ng-template
+[2022-06-18 14:06:09.826] [sharedprocess] [info] Getting Manifest... redhat.fabric8-analytics
+[2022-06-18 14:06:09.826] [sharedprocess] [info] Getting Manifest... ms-azuretools.vscode-docker
+[2022-06-18 14:06:09.827] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools
+[2022-06-18 14:06:09.828] [sharedprocess] [info] Getting Manifest... hashicorp.terraform
+[2022-06-18 14:06:09.829] [sharedprocess] [info] Getting Manifest... tomoki1207.pdf
+[2022-06-18 14:06:09.830] [sharedprocess] [info] Getting Manifest... pivotal.vscode-boot-dev-pack
+[2022-06-18 14:06:09.831] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+[2022-06-18 14:06:09.831] [sharedprocess] [info] Getting Manifest... adpyke.vscode-sql-formatter
+[2022-06-18 14:06:09.832] [sharedprocess] [info] Getting Manifest... 4ops.terraform
+[2022-06-18 14:06:09.832] [sharedprocess] [info] Getting Manifest... ms-mssql.data-workspace-vscode
+[2022-06-18 14:06:09.833] [sharedprocess] [info] Getting Manifest... redhat.vscode-yaml
+[2022-06-18 14:06:09.834] [sharedprocess] [info] Getting Manifest... zobo.php-intellisense
+[2022-06-18 14:06:09.835] [sharedprocess] [info] Getting Manifest... ritwickdey.live-sass
+[2022-06-18 14:06:09.836] [sharedprocess] [info] Getting Manifest... justusadam.language-haskell
+[2022-06-18 14:06:09.836] [sharedprocess] [info] Getting Manifest... jeff-hykin.better-cpp-syntax
+[2022-06-18 14:06:09.837] [sharedprocess] [info] Getting Manifest... xdebug.php-pack
+[2022-06-18 14:06:09.837] [sharedprocess] [info] Getting Manifest... wallabyjs.quokka-vscode
+[2022-06-18 14:06:09.838] [sharedprocess] [info] Getting Manifest... twxs.cmake
+[2022-06-18 14:06:09.838] [sharedprocess] [info] Getting Manifest... geeksharp.openssl-configuration-file
+[2022-06-18 14:06:09.839] [sharedprocess] [info] Getting Manifest... christian-kohler.npm-intellisense
+[2022-06-18 14:06:09.839] [sharedprocess] [info] Getting Manifest... golang.go
+[2022-06-18 14:06:09.841] [sharedprocess] [info] Getting Manifest... vscjava.vscode-java-debug
+[2022-06-18 14:06:09.956] [sharedprocess] [info] Getting Manifest... vscjava.vscode-spring-boot-dashboard
+[2022-06-18 14:06:09.957] [sharedprocess] [info] Getting Manifest... vscjava.vscode-spring-initializr
+[2022-06-18 14:06:09.960] [sharedprocess] [info] Getting Manifest... vscjava.vscode-java-pack
+[2022-06-18 14:06:09.963] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-06-18 14:06:09.970] [sharedprocess] [info] Getting Manifest... redhat.java
+[2022-06-18 14:06:09.976] [sharedprocess] [info] Getting Manifest... vscjava.vscode-maven
+[2022-06-18 14:06:09.980] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2022-06-18 14:06:09.980] [sharedprocess] [info] Installing the extension without checking dependencies and pack ritwickdey.liveserver
+[2022-06-18 14:06:09.985] [sharedprocess] [info] Getting Manifest... ms-vscode.cmake-tools
+[2022-06-18 14:06:09.995] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2022-06-18 14:06:09.995] [sharedprocess] [info] Installing the extension without checking dependencies and pack esbenp.prettier-vscode
+[2022-06-18 14:06:10.042] [sharedprocess] [info] Installing extension: jeff-hykin.better-cpp-syntax
+[2022-06-18 14:06:10.042] [sharedprocess] [info] Installing the extension without checking dependencies and pack jeff-hykin.better-cpp-syntax
+[2022-06-18 14:06:10.079] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-06-18 14:06:10.094] [sharedprocess] [info] Installing extension: vscjava.vscode-spring-initializr
+[2022-06-18 14:06:10.094] [sharedprocess] [info] Installing the extension without checking dependencies and pack vscjava.vscode-spring-initializr
+[2022-06-18 14:06:10.128] [sharedprocess] [info] Installing extension: ms-vscode.cmake-tools
+[2022-06-18 14:06:10.128] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-vscode.cmake-tools
+[2022-06-18 14:06:10.192] [sharedprocess] [info] Installing extension: natqe.reload
+[2022-06-18 14:06:10.192] [sharedprocess] [info] Installing the extension without checking dependencies and pack natqe.reload
+[2022-06-18 14:06:10.214] [sharedprocess] [info] Installing extension: cschlosser.doxdocgen
+[2022-06-18 14:06:10.214] [sharedprocess] [info] Installing the extension without checking dependencies and pack cschlosser.doxdocgen
+[2022-06-18 14:06:10.240] [sharedprocess] [info] Installing extension: ms-mssql.mssql
+[2022-06-18 14:06:10.240] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-mssql.mssql
+[2022-06-18 14:06:10.252] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-06-18 14:06:10.269] [sharedprocess] [info] Installing extension: ms-mssql.sql-bindings-vscode
+[2022-06-18 14:06:10.269] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-mssql.sql-bindings-vscode
+[2022-06-18 14:06:10.284] [sharedprocess] [info] Getting Manifest... whatwedo.twig
+[2022-06-18 14:06:10.289] [sharedprocess] [info] Installing extension: whatwedo.twig
+[2022-06-18 14:06:10.289] [sharedprocess] [info] Installing the extension without checking dependencies and pack whatwedo.twig
+[2022-06-18 14:06:10.303] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2022-06-18 14:06:10.303] [sharedprocess] [info] Installing the extension without checking dependencies and pack dbaeumer.vscode-eslint
+[2022-06-18 14:06:10.315] [sharedprocess] [info] Installing extension: ms-mssql.sql-database-projects-vscode
+[2022-06-18 14:06:10.315] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-mssql.sql-database-projects-vscode
+[2022-06-18 14:06:10.323] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-06-18 14:06:10.323] [sharedprocess] [info] Installing the extension without checking dependencies and pack pkief.material-icon-theme
+[2022-06-18 14:06:10.324] [sharedprocess] [info] Installing extension: eg2.vscode-npm-script
+[2022-06-18 14:06:10.324] [sharedprocess] [info] Installing the extension without checking dependencies and pack eg2.vscode-npm-script
+[2022-06-18 14:06:10.338] [sharedprocess] [info] Installing extension: mhutchie.git-graph
+[2022-06-18 14:06:10.338] [sharedprocess] [info] Installing the extension without checking dependencies and pack mhutchie.git-graph
+[2022-06-18 14:06:10.339] [sharedprocess] [info] Installing extension: ms-mssql.data-workspace-vscode
+[2022-06-18 14:06:10.339] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-mssql.data-workspace-vscode
+[2022-06-18 14:06:10.354] [sharedprocess] [info] Installing extension: ritwickdey.live-sass
+[2022-06-18 14:06:10.354] [sharedprocess] [info] Installing the extension without checking dependencies and pack ritwickdey.live-sass
+[2022-06-18 14:06:10.354] [sharedprocess] [info] Installing extension: syler.sass-indented
+[2022-06-18 14:06:10.354] [sharedprocess] [info] Installing the extension without checking dependencies and pack syler.sass-indented
+[2022-06-18 14:06:10.355] [sharedprocess] [info] Installing extension: robbowen.synthwave-vscode
+[2022-06-18 14:06:10.355] [sharedprocess] [info] Installing the extension without checking dependencies and pack robbowen.synthwave-vscode
+[2022-06-18 14:06:10.355] [sharedprocess] [info] Installing extension: syler.ignore
+[2022-06-18 14:06:10.355] [sharedprocess] [info] Installing the extension without checking dependencies and pack syler.ignore
+[2022-06-18 14:06:10.374] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2022-06-18 14:06:10.374] [sharedprocess] [info] Installing the extension without checking dependencies and pack eamodio.gitlens
+[2022-06-18 14:06:10.375] [sharedprocess] [info] Installing extension: ms-vscode.cpptools-extension-pack
+[2022-06-18 14:06:10.375] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools-extension-pack
+[2022-06-18 14:06:10.376] [sharedprocess] [info] Installing extension: ms-vscode.cpptools-themes
+[2022-06-18 14:06:10.376] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools-themes
+[2022-06-18 14:06:10.377] [sharedprocess] [info] Installing extension: angular.ng-template
+[2022-06-18 14:06:10.377] [sharedprocess] [info] Installing the extension without checking dependencies and pack angular.ng-template
+[2022-06-18 14:06:10.378] [sharedprocess] [info] Installing extension: hashicorp.terraform
+[2022-06-18 14:06:10.378] [sharedprocess] [info] Installing the extension without checking dependencies and pack hashicorp.terraform
+[2022-06-18 14:06:10.405] [sharedprocess] [info] Installing extension: christian-kohler.npm-intellisense
+[2022-06-18 14:06:10.406] [sharedprocess] [info] Installing the extension without checking dependencies and pack christian-kohler.npm-intellisense
+[2022-06-18 14:06:10.406] [sharedprocess] [info] Installing extension: mechatroner.rainbow-csv
+[2022-06-18 14:06:10.406] [sharedprocess] [info] Installing the extension without checking dependencies and pack mechatroner.rainbow-csv
+[2022-06-18 14:06:10.407] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2022-06-18 14:06:10.408] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools
+[2022-06-18 14:06:10.408] [sharedprocess] [info] Installing extension: apollographql.vscode-apollo
+[2022-06-18 14:06:10.408] [sharedprocess] [info] Installing the extension without checking dependencies and pack apollographql.vscode-apollo
+[2022-06-18 14:06:10.409] [sharedprocess] [info] Installing extension: vscjava.vscode-java-debug
+[2022-06-18 14:06:10.409] [sharedprocess] [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-debug
+[2022-06-18 14:06:10.410] [sharedprocess] [info] Installing extension: prisma.prisma
+[2022-06-18 14:06:10.410] [sharedprocess] [info] Installing the extension without checking dependencies and pack prisma.prisma
+[2022-06-18 14:06:10.411] [sharedprocess] [info] Installing extension: redhat.fabric8-analytics
+[2022-06-18 14:06:10.411] [sharedprocess] [info] Installing the extension without checking dependencies and pack redhat.fabric8-analytics
+[2022-06-18 14:06:10.411] [sharedprocess] [info] Installing extension: redhat.vscode-yaml
+[2022-06-18 14:06:10.412] [sharedprocess] [info] Installing the extension without checking dependencies and pack redhat.vscode-yaml
+[2022-06-18 14:06:10.412] [sharedprocess] [info] Installing extension: redhat.vscode-xml
+[2022-06-18 14:06:10.413] [sharedprocess] [info] Installing the extension without checking dependencies and pack redhat.vscode-xml
+[2022-06-18 14:06:10.413] [sharedprocess] [info] Installing extension: xdebug.php-pack
+[2022-06-18 14:06:10.413] [sharedprocess] [info] Installing the extension without checking dependencies and pack xdebug.php-pack
+[2022-06-18 14:06:10.414] [sharedprocess] [info] Installing extension: twxs.cmake
+[2022-06-18 14:06:10.414] [sharedprocess] [info] Installing the extension without checking dependencies and pack twxs.cmake
+[2022-06-18 14:06:10.414] [sharedprocess] [info] Installing extension: xdebug.php-debug
+[2022-06-18 14:06:10.415] [sharedprocess] [info] Installing the extension without checking dependencies and pack xdebug.php-debug
+[2022-06-18 14:06:10.432] [sharedprocess] [info] Installing extension: pivotal.vscode-boot-dev-pack
+[2022-06-18 14:06:10.432] [sharedprocess] [info] Installing the extension without checking dependencies and pack pivotal.vscode-boot-dev-pack
+[2022-06-18 14:06:10.433] [sharedprocess] [info] Installing extension: adpyke.vscode-sql-formatter
+[2022-06-18 14:06:10.433] [sharedprocess] [info] Installing the extension without checking dependencies and pack adpyke.vscode-sql-formatter
+[2022-06-18 14:06:10.434] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2022-06-18 14:06:10.434] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-azuretools.vscode-docker
+[2022-06-18 14:06:10.435] [sharedprocess] [info] Installing extension: pivotal.vscode-spring-boot
+[2022-06-18 14:06:10.435] [sharedprocess] [info] Installing the extension without checking dependencies and pack pivotal.vscode-spring-boot
+[2022-06-18 14:06:10.436] [sharedprocess] [info] Installing extension: zobo.php-intellisense
+[2022-06-18 14:06:10.436] [sharedprocess] [info] Installing the extension without checking dependencies and pack zobo.php-intellisense
+[2022-06-18 14:06:10.436] [sharedprocess] [info] Installing extension: 4ops.terraform
+[2022-06-18 14:06:10.436] [sharedprocess] [info] Installing the extension without checking dependencies and pack 4ops.terraform
+[2022-06-18 14:06:10.437] [sharedprocess] [info] Installing extension: geeksharp.openssl-configuration-file
+[2022-06-18 14:06:10.437] [sharedprocess] [info] Installing the extension without checking dependencies and pack geeksharp.openssl-configuration-file
+[2022-06-18 14:06:10.438] [sharedprocess] [info] Installing extension: tomoki1207.pdf
+[2022-06-18 14:06:10.438] [sharedprocess] [info] Installing the extension without checking dependencies and pack tomoki1207.pdf
+[2022-06-18 14:06:10.439] [sharedprocess] [info] Installing extension: golang.go
+[2022-06-18 14:06:10.439] [sharedprocess] [info] Installing the extension without checking dependencies and pack golang.go
+[2022-06-18 14:06:10.440] [sharedprocess] [info] Installing extension: wallabyjs.quokka-vscode
+[2022-06-18 14:06:10.440] [sharedprocess] [info] Installing the extension without checking dependencies and pack wallabyjs.quokka-vscode
+[2022-06-18 14:06:10.442] [sharedprocess] [info] Installing extension: justusadam.language-haskell
+[2022-06-18 14:06:10.442] [sharedprocess] [info] Installing the extension without checking dependencies and pack justusadam.language-haskell
+[2022-06-18 14:06:10.445] [sharedprocess] [info] Installing extension: gabrielbb.vscode-lombok
+[2022-06-18 14:06:10.446] [sharedprocess] [info] Installing the extension without checking dependencies and pack gabrielbb.vscode-lombok
+[2022-06-18 14:06:10.453] [sharedprocess] [info] Installing extension: vscjava.vscode-java-pack
+[2022-06-18 14:06:10.453] [sharedprocess] [info] Installing the extension without checking dependencies and pack vscjava.vscode-java-pack
+[2022-06-18 14:06:10.482] [sharedprocess] [info] Installing extension: vscjava.vscode-spring-boot-dashboard
+[2022-06-18 14:06:10.483] [sharedprocess] [info] Installing the extension without checking dependencies and pack vscjava.vscode-spring-boot-dashboard
+[2022-06-18 14:06:10.483] [sharedprocess] [info] Installing extension: redhat.java
+[2022-06-18 14:06:10.483] [sharedprocess] [info] Installing the extension without checking dependencies and pack redhat.java
+[2022-06-18 14:06:10.487] [sharedprocess] [info] Installing extension: vscjava.vscode-maven
+[2022-06-18 14:06:10.487] [sharedprocess] [info] Installing the extension without checking dependencies and pack vscjava.vscode-maven
+[2022-06-18 14:06:10.539] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-06-18 14:06:10.539] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+[2022-06-18 14:06:10.682] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2022-06-18 14:06:10.682] [sharedprocess] [info] Installing the extension without checking dependencies and pack visualstudioexptteam.vscodeintellicode
+[2022-06-18 14:06:10.761] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-06-18 14:06:10.762] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-python.python
+[2022-06-18 14:06:10.897] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-06-18 14:06:10.897] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter
+[2022-06-18 14:06:11.799] [sharedprocess] [info] Downloaded extension: natqe.reload /home/nlmz94/.config/Code/CachedExtensionVSIXs/natqe.reload-0.0.6
+[2022-06-18 14:06:11.800] [sharedprocess] [info] Downloaded extension: vscjava.vscode-spring-initializr /home/nlmz94/.config/Code/CachedExtensionVSIXs/vscjava.vscode-spring-initializr-0.9.0
+[2022-06-18 14:06:11.800] [sharedprocess] [info] Downloaded extension: jeff-hykin.better-cpp-syntax /home/nlmz94/.config/Code/CachedExtensionVSIXs/jeff-hykin.better-cpp-syntax-1.15.18
+[2022-06-18 14:06:11.807] [sharedprocess] [info] Downloaded extension: ms-mssql.sql-bindings-vscode /home/nlmz94/.config/Code/CachedExtensionVSIXs/ms-mssql.sql-bindings-vscode-0.2.0
+[2022-06-18 14:06:11.817] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/nlmz94/.config/Code/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.5
+[2022-06-18 14:06:11.818] [sharedprocess] [info] Downloaded extension: ms-vscode.cmake-tools /home/nlmz94/.config/Code/CachedExtensionVSIXs/ms-vscode.cmake-tools-1.11.26
+[2022-06-18 14:06:11.839] [sharedprocess] [info] Downloaded extension: cschlosser.doxdocgen /home/nlmz94/.config/Code/CachedExtensionVSIXs/cschlosser.doxdocgen-1.4.0
+[2022-06-18 14:06:11.848] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.5da0721c-8665-4eee-8541-72ba0b3c7e86: natqe.reload
+[2022-06-18 14:06:11.853] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/natqe.reload-0.0.6
+[2022-06-18 14:06:11.855] [sharedprocess] [info] Extracting completed. natqe.reload
+[2022-06-18 14:06:11.856] [sharedprocess] [info] Extension installed successfully: natqe.reload
+[2022-06-18 14:06:11.884] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.181a4299-7758-42b7-9b1f-6d1bdd84d7e3: vscjava.vscode-spring-initializr
+[2022-06-18 14:06:11.896] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.356c0fb0-78bd-4b8b-994d-80dfdbc4c7c5: jeff-hykin.better-cpp-syntax
+[2022-06-18 14:06:11.927] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.18
+[2022-06-18 14:06:11.927] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/nlmz94/.config/Code/CachedExtensionVSIXs/esbenp.prettier-vscode-9.5.0
+[2022-06-18 14:06:11.927] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/vscjava.vscode-spring-initializr-0.9.0
+[2022-06-18 14:06:11.936] [sharedprocess] [info] Extracting completed. jeff-hykin.better-cpp-syntax
+[2022-06-18 14:06:11.936] [sharedprocess] [info] Extension installed successfully: jeff-hykin.better-cpp-syntax
+[2022-06-18 14:06:11.936] [sharedprocess] [info] Extracting completed. vscjava.vscode-spring-initializr
+[2022-06-18 14:06:11.937] [sharedprocess] [info] Extension installed successfully: vscjava.vscode-spring-initializr
+[2022-06-18 14:06:11.950] [sharedprocess] [info] Downloaded extension: ms-mssql.mssql /home/nlmz94/.config/Code/CachedExtensionVSIXs/ms-mssql.mssql-1.15.0
+[2022-06-18 14:06:11.953] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.9308c687-b84a-4a46-a611-7b501531d0c3: ms-mssql.sql-bindings-vscode
+[2022-06-18 14:06:11.957] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/ms-mssql.sql-bindings-vscode-0.2.0
+[2022-06-18 14:06:11.960] [sharedprocess] [info] Extracting completed. ms-mssql.sql-bindings-vscode
+[2022-06-18 14:06:11.961] [sharedprocess] [info] Extension installed successfully: ms-mssql.sql-bindings-vscode
+[2022-06-18 14:06:12.099] [sharedprocess] [info] Downloaded extension: whatwedo.twig /home/nlmz94/.config/Code/CachedExtensionVSIXs/whatwedo.twig-1.0.2
+[2022-06-18 14:06:12.152] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.8f23af9f-a44c-47ac-940c-424c9b56278c: ms-vscode.cmake-tools
+[2022-06-18 14:06:12.155] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/ms-vscode.cmake-tools-1.11.26
+[2022-06-18 14:06:12.158] [sharedprocess] [info] Extracting completed. ms-vscode.cmake-tools
+[2022-06-18 14:06:12.159] [sharedprocess] [info] Extension installed successfully: ms-vscode.cmake-tools
+[2022-06-18 14:06:12.161] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.aa5a4fd2-7d19-454d-affd-14ac2018101d: whatwedo.twig
+[2022-06-18 14:06:12.164] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/whatwedo.twig-1.0.2
+[2022-06-18 14:06:12.166] [sharedprocess] [info] Extracting completed. whatwedo.twig
+[2022-06-18 14:06:12.166] [sharedprocess] [info] Extension installed successfully: whatwedo.twig
+[2022-06-18 14:06:12.254] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /home/nlmz94/.config/Code/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.2.3
+[2022-06-18 14:06:12.276] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.e87ec7b6-f097-42d5-b6e8-6844fbf4b4f7: dbaeumer.vscode-eslint
+[2022-06-18 14:06:12.279] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/dbaeumer.vscode-eslint-2.2.3
+[2022-06-18 14:06:12.280] [sharedprocess] [info] Extracting completed. dbaeumer.vscode-eslint
+[2022-06-18 14:06:12.281] [sharedprocess] [info] Extension installed successfully: dbaeumer.vscode-eslint
+[2022-06-18 14:06:12.363] [sharedprocess] [info] Downloaded extension: ms-mssql.sql-database-projects-vscode /home/nlmz94/.config/Code/CachedExtensionVSIXs/ms-mssql.sql-database-projects-vscode-0.17.1
+[2022-06-18 14:06:12.523] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.b08b7148-c72a-452a-85f5-016827d9b68b: esbenp.prettier-vscode
+[2022-06-18 14:06:12.526] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/esbenp.prettier-vscode-9.5.0
+[2022-06-18 14:06:12.529] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2022-06-18 14:06:12.530] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2022-06-18 14:06:12.532] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools-extension-pack /home/nlmz94/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-extension-pack-1.2.0
+[2022-06-18 14:06:12.542] [sharedprocess] [info] Downloaded extension: vscjava.vscode-spring-boot-dashboard /home/nlmz94/.config/Code/CachedExtensionVSIXs/vscjava.vscode-spring-boot-dashboard-0.4.0
+[2022-06-18 14:06:12.545] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.58505f8d-46bf-44d1-a944-07d1a2ffe10e: ms-vscode.cpptools-extension-pack
+[2022-06-18 14:06:12.548] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.2.0
+[2022-06-18 14:06:12.550] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools-extension-pack
+[2022-06-18 14:06:12.550] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools-extension-pack
+[2022-06-18 14:06:12.579] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.1a68e3b8-8b94-48e5-b698-a5cfc39ac7a2: ms-mssql.sql-database-projects-vscode
+[2022-06-18 14:06:12.582] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/ms-mssql.sql-database-projects-vscode-0.17.1
+[2022-06-18 14:06:12.585] [sharedprocess] [info] Extracting completed. ms-mssql.sql-database-projects-vscode
+[2022-06-18 14:06:12.585] [sharedprocess] [info] Extension installed successfully: ms-mssql.sql-database-projects-vscode
+[2022-06-18 14:06:12.624] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-pack /home/nlmz94/.config/Code/CachedExtensionVSIXs/vscjava.vscode-java-pack-0.23.0
+[2022-06-18 14:06:12.657] [sharedprocess] [info] Downloaded extension: mechatroner.rainbow-csv /home/nlmz94/.config/Code/CachedExtensionVSIXs/mechatroner.rainbow-csv-2.4.0
+[2022-06-18 14:06:12.669] [sharedprocess] [info] Downloaded extension: adpyke.vscode-sql-formatter /home/nlmz94/.config/Code/CachedExtensionVSIXs/adpyke.vscode-sql-formatter-1.4.4
+[2022-06-18 14:06:12.753] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/nlmz94/.config/Code/CachedExtensionVSIXs/pkief.material-icon-theme-4.18.1
+[2022-06-18 14:06:12.851] [sharedprocess] [info] Downloaded extension: hashicorp.terraform /home/nlmz94/.config/Code/CachedExtensionVSIXs/hashicorp.terraform-2.23.0-linux-x64
+[2022-06-18 14:06:12.852] [sharedprocess] [info] Downloaded extension: eg2.vscode-npm-script /home/nlmz94/.config/Code/CachedExtensionVSIXs/eg2.vscode-npm-script-0.3.25
+[2022-06-18 14:06:12.853] [sharedprocess] [info] Downloaded extension: zobo.php-intellisense /home/nlmz94/.config/Code/CachedExtensionVSIXs/zobo.php-intellisense-1.0.8
+[2022-06-18 14:06:12.855] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.542eb27a-b29c-4fe4-9ed5-f997b7cb7e79: mechatroner.rainbow-csv
+[2022-06-18 14:06:12.862] [sharedprocess] [info] Downloaded extension: robbowen.synthwave-vscode /home/nlmz94/.config/Code/CachedExtensionVSIXs/robbowen.synthwave-vscode-0.1.11
+[2022-06-18 14:06:12.862] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/mechatroner.rainbow-csv-2.4.0
+[2022-06-18 14:06:12.864] [sharedprocess] [info] Downloaded extension: redhat.fabric8-analytics /home/nlmz94/.config/Code/CachedExtensionVSIXs/redhat.fabric8-analytics-0.3.5
+[2022-06-18 14:06:12.866] [sharedprocess] [info] Extracting completed. mechatroner.rainbow-csv
+[2022-06-18 14:06:12.867] [sharedprocess] [info] Extension installed successfully: mechatroner.rainbow-csv
+[2022-06-18 14:06:12.890] [sharedprocess] [info] Downloaded extension: ritwickdey.live-sass /home/nlmz94/.config/Code/CachedExtensionVSIXs/ritwickdey.live-sass-3.0.0
+[2022-06-18 14:06:12.966] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.e098c595-a972-4893-9141-5a619a7c213c: redhat.fabric8-analytics
+[2022-06-18 14:06:12.972] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/redhat.fabric8-analytics-0.3.5
+[2022-06-18 14:06:12.976] [sharedprocess] [info] Extracting completed. redhat.fabric8-analytics
+[2022-06-18 14:06:12.977] [sharedprocess] [info] Extension installed successfully: redhat.fabric8-analytics
+[2022-06-18 14:06:12.998] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.3b4c7e93-70ae-43fb-ac20-9c94f1e62081: vscjava.vscode-java-pack
+[2022-06-18 14:06:13.004] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/vscjava.vscode-java-pack-0.23.0
+[2022-06-18 14:06:13.009] [sharedprocess] [info] Extracting completed. vscjava.vscode-java-pack
+[2022-06-18 14:06:13.010] [sharedprocess] [info] Extension installed successfully: vscjava.vscode-java-pack
+[2022-06-18 14:06:13.027] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.44f72efb-c1c9-4702-8d41-eef273e68b61: eg2.vscode-npm-script
+[2022-06-18 14:06:13.034] [sharedprocess] [info] Downloaded extension: syler.sass-indented /home/nlmz94/.config/Code/CachedExtensionVSIXs/syler.sass-indented-1.8.20
+[2022-06-18 14:06:13.034] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/eg2.vscode-npm-script-0.3.25
+[2022-06-18 14:06:13.038] [sharedprocess] [info] Extracting completed. eg2.vscode-npm-script
+[2022-06-18 14:06:13.038] [sharedprocess] [info] Extension installed successfully: eg2.vscode-npm-script
+[2022-06-18 14:06:13.129] [sharedprocess] [info] Downloaded extension: mhutchie.git-graph /home/nlmz94/.config/Code/CachedExtensionVSIXs/mhutchie.git-graph-1.30.0
+[2022-06-18 14:06:13.141] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.de40ee79-a744-4ce6-a85d-2dd7bbfda79a: robbowen.synthwave-vscode
+[2022-06-18 14:06:13.146] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-debug /home/nlmz94/.config/Code/CachedExtensionVSIXs/vscjava.vscode-java-debug-0.41.0
+[2022-06-18 14:06:13.147] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/robbowen.synthwave-vscode-0.1.11
+[2022-06-18 14:06:13.149] [sharedprocess] [info] Extracting completed. robbowen.synthwave-vscode
+[2022-06-18 14:06:13.150] [sharedprocess] [info] Extension installed successfully: robbowen.synthwave-vscode
+[2022-06-18 14:06:13.162] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.ec1cc059-d1ae-4f63-a877-cff244697b55: syler.sass-indented
+[2022-06-18 14:06:13.167] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/syler.sass-indented-1.8.20
+[2022-06-18 14:06:13.170] [sharedprocess] [info] Extracting completed. syler.sass-indented
+[2022-06-18 14:06:13.171] [sharedprocess] [info] Extension installed successfully: syler.sass-indented
+[2022-06-18 14:06:13.254] [sharedprocess] [info] Downloaded extension: prisma.prisma /home/nlmz94/.config/Code/CachedExtensionVSIXs/prisma.prisma-3.15.0
+[2022-06-18 14:06:13.384] [sharedprocess] [info] Downloaded extension: golang.go /home/nlmz94/.config/Code/CachedExtensionVSIXs/golang.go-0.33.1
+[2022-06-18 14:06:13.440] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.c4a12db0-ff6b-45e3-8571-9811e86524a1: vscjava.vscode-java-debug
+[2022-06-18 14:06:13.446] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/vscjava.vscode-java-debug-0.41.0
+[2022-06-18 14:06:13.470] [sharedprocess] [info] Extracting completed. vscjava.vscode-java-debug
+[2022-06-18 14:06:13.470] [sharedprocess] [info] Extension installed successfully: vscjava.vscode-java-debug
+[2022-06-18 14:06:13.475] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.545ecf88-e9cd-47cb-8103-c2809e0da4aa: mhutchie.git-graph
+[2022-06-18 14:06:13.519] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/mhutchie.git-graph-1.30.0
+[2022-06-18 14:06:13.519] [sharedprocess] [info] Downloaded extension: vscjava.vscode-maven /home/nlmz94/.config/Code/CachedExtensionVSIXs/vscjava.vscode-maven-0.35.2
+[2022-06-18 14:06:13.527] [sharedprocess] [info] Extracting completed. mhutchie.git-graph
+[2022-06-18 14:06:13.528] [sharedprocess] [info] Extension installed successfully: mhutchie.git-graph
+[2022-06-18 14:06:13.597] [sharedprocess] [info] Downloaded extension: xdebug.php-debug /home/nlmz94/.config/Code/CachedExtensionVSIXs/xdebug.php-debug-1.27.0
+[2022-06-18 14:06:13.608] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.d68d2192-246d-44aa-a26a-e3c1fbc54957: vscjava.vscode-spring-boot-dashboard
+[2022-06-18 14:06:13.613] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/vscjava.vscode-spring-boot-dashboard-0.4.0
+[2022-06-18 14:06:13.616] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.0449a2fd-d6a8-4879-9b73-e7c9c13b6126: golang.go
+[2022-06-18 14:06:13.618] [sharedprocess] [info] Extracting completed. vscjava.vscode-spring-boot-dashboard
+[2022-06-18 14:06:13.619] [sharedprocess] [info] Extension installed successfully: vscjava.vscode-spring-boot-dashboard
+[2022-06-18 14:06:13.629] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/golang.go-0.33.1
+[2022-06-18 14:06:13.633] [sharedprocess] [info] Extracting completed. golang.go
+[2022-06-18 14:06:13.634] [sharedprocess] [info] Extension installed successfully: golang.go
+[2022-06-18 14:06:13.676] [sharedprocess] [info] Downloaded extension: redhat.vscode-yaml /home/nlmz94/.config/Code/CachedExtensionVSIXs/redhat.vscode-yaml-1.8.0
+[2022-06-18 14:06:13.767] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.6e1549d4-fe7b-45a6-9bfd-43df32700a88: hashicorp.terraform
+[2022-06-18 14:06:13.774] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/hashicorp.terraform-2.23.0-linux-x64
+[2022-06-18 14:06:13.777] [sharedprocess] [info] Extracting completed. hashicorp.terraform
+[2022-06-18 14:06:13.778] [sharedprocess] [info] Extension installed successfully: hashicorp.terraform
+[2022-06-18 14:06:13.909] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /home/nlmz94/.config/Code/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.22.0
+[2022-06-18 14:06:14.007] [sharedprocess] [info] Downloaded extension: geeksharp.openssl-configuration-file /home/nlmz94/.config/Code/CachedExtensionVSIXs/geeksharp.openssl-configuration-file-0.0.1
+[2022-06-18 14:06:14.060] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.8f8e87dc-6b5b-4bea-953c-e30d7ea8fe7a: geeksharp.openssl-configuration-file
+[2022-06-18 14:06:14.067] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/geeksharp.openssl-configuration-file-0.0.1
+[2022-06-18 14:06:14.067] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.5193f14c-5be0-4dc7-b0c8-1c7b005b2e6f: redhat.vscode-yaml
+[2022-06-18 14:06:14.070] [sharedprocess] [info] Extracting completed. geeksharp.openssl-configuration-file
+[2022-06-18 14:06:14.071] [sharedprocess] [info] Extension installed successfully: geeksharp.openssl-configuration-file
+[2022-06-18 14:06:14.073] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/redhat.vscode-yaml-1.8.0
+[2022-06-18 14:06:14.077] [sharedprocess] [info] Extracting completed. redhat.vscode-yaml
+[2022-06-18 14:06:14.077] [sharedprocess] [info] Extension installed successfully: redhat.vscode-yaml
+[2022-06-18 14:06:14.133] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.6483119e-49f4-47a0-b942-62f6c08d26a6: cschlosser.doxdocgen
+[2022-06-18 14:06:14.140] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/cschlosser.doxdocgen-1.4.0
+[2022-06-18 14:06:14.143] [sharedprocess] [info] Extracting completed. cschlosser.doxdocgen
+[2022-06-18 14:06:14.143] [sharedprocess] [info] Extension installed successfully: cschlosser.doxdocgen
+[2022-06-18 14:06:14.400] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.5871c1f0-fa4d-465a-bc6e-93ce4bc1bb1e: ms-azuretools.vscode-docker
+[2022-06-18 14:06:14.407] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/ms-azuretools.vscode-docker-1.22.0
+[2022-06-18 14:06:14.422] [sharedprocess] [info] Extracting completed. ms-azuretools.vscode-docker
+[2022-06-18 14:06:14.423] [sharedprocess] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2022-06-18 14:06:14.549] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.6a36ef46-44da-4b7f-a6a6-14c5eb28f456: vscjava.vscode-maven
+[2022-06-18 14:06:14.557] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/vscjava.vscode-maven-0.35.2
+[2022-06-18 14:06:14.595] [sharedprocess] [info] Extracting completed. vscjava.vscode-maven
+[2022-06-18 14:06:14.595] [sharedprocess] [info] Extension installed successfully: vscjava.vscode-maven
+[2022-06-18 14:06:14.703] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.65e82cec-70d0-4608-9de9-849cf27b1b67: ritwickdey.liveserver
+[2022-06-18 14:06:14.707] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/ritwickdey.liveserver-5.7.5
+[2022-06-18 14:06:14.729] [sharedprocess] [info] Extracting completed. ritwickdey.liveserver
+[2022-06-18 14:06:14.730] [sharedprocess] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-06-18 14:06:14.952] [sharedprocess] [info] Downloaded extension: angular.ng-template /home/nlmz94/.config/Code/CachedExtensionVSIXs/angular.ng-template-14.0.1
+[2022-06-18 14:06:15.122] [sharedprocess] [info] Downloaded extension: christian-kohler.npm-intellisense /home/nlmz94/.config/Code/CachedExtensionVSIXs/christian-kohler.npm-intellisense-1.4.2
+[2022-06-18 14:06:15.230] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.4446524a-1e99-4b3d-8855-8e2818a17477: christian-kohler.npm-intellisense
+[2022-06-18 14:06:15.234] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/christian-kohler.npm-intellisense-1.4.2
+[2022-06-18 14:06:15.237] [sharedprocess] [info] Extracting completed. christian-kohler.npm-intellisense
+[2022-06-18 14:06:15.237] [sharedprocess] [info] Extension installed successfully: christian-kohler.npm-intellisense
+[2022-06-18 14:06:15.492] [sharedprocess] [info] Downloaded extension: ms-python.python /home/nlmz94/.config/Code/CachedExtensionVSIXs/ms-python.python-2022.8.0
+[2022-06-18 14:06:15.556] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.dc1fba67-91c8-4436-825f-38801dc396e7: pkief.material-icon-theme
+[2022-06-18 14:06:15.560] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/pkief.material-icon-theme-4.18.1
+[2022-06-18 14:06:15.563] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-06-18 14:06:15.564] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-06-18 14:06:15.622] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.0b7a9fe9-17e4-49de-b656-dca243fc6368: xdebug.php-debug
+[2022-06-18 14:06:15.626] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/xdebug.php-debug-1.27.0
+[2022-06-18 14:06:15.628] [sharedprocess] [info] Extracting completed. xdebug.php-debug
+[2022-06-18 14:06:15.628] [sharedprocess] [info] Extension installed successfully: xdebug.php-debug
+[2022-06-18 14:06:16.012] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.dcab9f78-3cc6-4428-9a29-96a8f4ec1bdf: prisma.prisma
+[2022-06-18 14:06:16.080] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/nlmz94/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.5.1001601848
+[2022-06-18 14:06:16.124] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.bbe28182-7db9-4eea-8b2b-d56e1900e592: ritwickdey.live-sass
+[2022-06-18 14:06:16.136] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/prisma.prisma-3.15.0
+[2022-06-18 14:06:16.139] [sharedprocess] [info] Extracting completed. prisma.prisma
+[2022-06-18 14:06:16.139] [sharedprocess] [info] Extension installed successfully: prisma.prisma
+[2022-06-18 14:06:16.180] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/ritwickdey.live-sass-3.0.0
+[2022-06-18 14:06:16.182] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /home/nlmz94/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-1.10.7-linux-x64
+[2022-06-18 14:06:16.185] [sharedprocess] [info] Extracting completed. ritwickdey.live-sass
+[2022-06-18 14:06:16.185] [sharedprocess] [info] Extension installed successfully: ritwickdey.live-sass
+[2022-06-18 14:06:16.426] [sharedprocess] [info] Downloaded extension: wallabyjs.quokka-vscode /home/nlmz94/.config/Code/CachedExtensionVSIXs/wallabyjs.quokka-vscode-1.0.479
+[2022-06-18 14:06:16.433] [sharedprocess] [info] Downloaded extension: syler.ignore /home/nlmz94/.config/Code/CachedExtensionVSIXs/syler.ignore-0.0.4
+[2022-06-18 14:06:16.459] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.07662352-7d00-47b5-92d3-b7031f763a40: syler.ignore
+[2022-06-18 14:06:16.463] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/syler.ignore-0.0.4
+[2022-06-18 14:06:16.465] [sharedprocess] [info] Extracting completed. syler.ignore
+[2022-06-18 14:06:16.466] [sharedprocess] [info] Extension installed successfully: syler.ignore
+[2022-06-18 14:06:16.492] [sharedprocess] [info] Downloaded extension: pivotal.vscode-boot-dev-pack /home/nlmz94/.config/Code/CachedExtensionVSIXs/pivotal.vscode-boot-dev-pack-0.1.0
+[2022-06-18 14:06:16.545] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.b0297c39-5a32-4876-a543-3138b0f695f4: pivotal.vscode-boot-dev-pack
+[2022-06-18 14:06:16.553] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/pivotal.vscode-boot-dev-pack-0.1.0
+[2022-06-18 14:06:16.570] [sharedprocess] [info] Extracting completed. pivotal.vscode-boot-dev-pack
+[2022-06-18 14:06:16.571] [sharedprocess] [info] Extension installed successfully: pivotal.vscode-boot-dev-pack
+[2022-06-18 14:06:16.598] [sharedprocess] [info] Downloaded extension: 4ops.terraform /home/nlmz94/.config/Code/CachedExtensionVSIXs/4ops.terraform-0.2.5
+[2022-06-18 14:06:16.600] [sharedprocess] [info] Downloaded extension: gabrielbb.vscode-lombok /home/nlmz94/.config/Code/CachedExtensionVSIXs/gabrielbb.vscode-lombok-1.0.1
+[2022-06-18 14:06:16.694] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.0afb41cd-0781-4ebc-92c6-d6404a8aa204: 4ops.terraform
+[2022-06-18 14:06:16.871] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/4ops.terraform-0.2.5
+[2022-06-18 14:06:16.872] [sharedprocess] [info] Downloaded extension: justusadam.language-haskell /home/nlmz94/.config/Code/CachedExtensionVSIXs/justusadam.language-haskell-3.6.0
+[2022-06-18 14:06:16.875] [sharedprocess] [info] Extracting completed. 4ops.terraform
+[2022-06-18 14:06:16.876] [sharedprocess] [info] Extension installed successfully: 4ops.terraform
+[2022-06-18 14:06:16.897] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.fdbc401c-d00c-4356-b30d-c2cbb5478f15: zobo.php-intellisense
+[2022-06-18 14:06:16.901] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/zobo.php-intellisense-1.0.8
+[2022-06-18 14:06:16.904] [sharedprocess] [info] Extracting completed. zobo.php-intellisense
+[2022-06-18 14:06:16.906] [sharedprocess] [info] Extension installed successfully: zobo.php-intellisense
+[2022-06-18 14:06:16.975] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.17202d90-be5f-41ee-a599-95a6728d833a: justusadam.language-haskell
+[2022-06-18 14:06:16.979] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/justusadam.language-haskell-3.6.0
+[2022-06-18 14:06:16.981] [sharedprocess] [info] Extracting completed. justusadam.language-haskell
+[2022-06-18 14:06:16.981] [sharedprocess] [info] Extension installed successfully: justusadam.language-haskell
+[2022-06-18 14:06:17.121] [sharedprocess] [info] Downloaded extension: xdebug.php-pack /home/nlmz94/.config/Code/CachedExtensionVSIXs/xdebug.php-pack-1.0.3
+[2022-06-18 14:06:17.122] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools-themes /home/nlmz94/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-themes-1.0.0
+[2022-06-18 14:06:17.136] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.8b840826-a2c5-4420-a252-0eb5d1fdf745: xdebug.php-pack
+[2022-06-18 14:06:17.316] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/xdebug.php-pack-1.0.3
+[2022-06-18 14:06:17.320] [sharedprocess] [info] Extracting completed. xdebug.php-pack
+[2022-06-18 14:06:17.320] [sharedprocess] [info] Extension installed successfully: xdebug.php-pack
+[2022-06-18 14:06:17.325] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.e26c333e-38a2-4526-8532-ab28f7b53c64: ms-vscode.cpptools-themes
+[2022-06-18 14:06:17.423] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/ms-vscode.cpptools-themes-1.0.0
+[2022-06-18 14:06:17.425] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools-themes
+[2022-06-18 14:06:17.425] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools-themes
+[2022-06-18 14:06:17.818] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.2581aaf1-8f10-4706-add9-3b910bf9be83: ms-toolsai.jupyter
+[2022-06-18 14:06:17.893] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/ms-toolsai.jupyter-2022.5.1001601848
+[2022-06-18 14:06:17.900] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-06-18 14:06:17.901] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-06-18 14:06:18.083] [sharedprocess] [info] Downloaded extension: pivotal.vscode-spring-boot /home/nlmz94/.config/Code/CachedExtensionVSIXs/pivotal.vscode-spring-boot-1.36.0
+[2022-06-18 14:06:18.177] [sharedprocess] [info] Downloaded extension: redhat.java /home/nlmz94/.config/Code/CachedExtensionVSIXs/redhat.java-1.7.0-linux-x64
+[2022-06-18 14:06:18.256] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.ac38dac7-bdc6-4374-bef4-717ac7164c8c: angular.ng-template
+[2022-06-18 14:06:18.327] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/angular.ng-template-14.0.1
+[2022-06-18 14:06:18.329] [sharedprocess] [info] Extracting completed. angular.ng-template
+[2022-06-18 14:06:18.330] [sharedprocess] [info] Extension installed successfully: angular.ng-template
+[2022-06-18 14:06:18.465] [sharedprocess] [info] Downloaded extension: ms-mssql.data-workspace-vscode /home/nlmz94/.config/Code/CachedExtensionVSIXs/ms-mssql.data-workspace-vscode-0.2.1
+[2022-06-18 14:06:18.579] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /home/nlmz94/.config/Code/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.21
+[2022-06-18 14:06:18.670] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.0de0d1fd-ae17-4489-ad1e-b58b4f5a2245: ms-mssql.data-workspace-vscode
+[2022-06-18 14:06:18.693] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/nlmz94/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.6.20
+[2022-06-18 14:06:18.693] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/ms-mssql.data-workspace-vscode-0.2.1
+[2022-06-18 14:06:18.715] [sharedprocess] [info] Extracting completed. ms-mssql.data-workspace-vscode
+[2022-06-18 14:06:18.715] [sharedprocess] [info] Extension installed successfully: ms-mssql.data-workspace-vscode
+[2022-06-18 14:06:18.761] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.521e36e4-9994-4745-9b47-0d241694c9d1: adpyke.vscode-sql-formatter
+[2022-06-18 14:06:18.763] [sharedprocess] [info] Downloaded extension: tomoki1207.pdf /home/nlmz94/.config/Code/CachedExtensionVSIXs/tomoki1207.pdf-1.2.0
+[2022-06-18 14:06:18.764] [sharedprocess] [info] Downloaded extension: apollographql.vscode-apollo /home/nlmz94/.config/Code/CachedExtensionVSIXs/apollographql.vscode-apollo-1.19.11
+[2022-06-18 14:06:18.765] [sharedprocess] [info] Downloaded extension: twxs.cmake /home/nlmz94/.config/Code/CachedExtensionVSIXs/twxs.cmake-0.0.17
+[2022-06-18 14:06:18.766] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/adpyke.vscode-sql-formatter-1.4.4
+[2022-06-18 14:06:18.769] [sharedprocess] [info] Extracting completed. adpyke.vscode-sql-formatter
+[2022-06-18 14:06:18.770] [sharedprocess] [info] Extension installed successfully: adpyke.vscode-sql-formatter
+[2022-06-18 14:06:18.837] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /home/nlmz94/.config/Code/CachedExtensionVSIXs/eamodio.gitlens-12.1.1
+[2022-06-18 14:06:18.925] [sharedprocess] [info] Downloaded extension: redhat.vscode-xml /home/nlmz94/.config/Code/CachedExtensionVSIXs/redhat.vscode-xml-0.20.0
+[2022-06-18 14:06:19.265] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.3ae99fb7-d4f4-4229-ab86-d34a41597bc1: twxs.cmake
+[2022-06-18 14:06:19.270] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/twxs.cmake-0.0.17
+[2022-06-18 14:06:19.272] [sharedprocess] [info] Extracting completed. twxs.cmake
+[2022-06-18 14:06:19.272] [sharedprocess] [info] Extension installed successfully: twxs.cmake
+[2022-06-18 14:06:19.700] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.b4e2fac5-15d2-4008-ab81-ce8249acee02: redhat.vscode-xml
+[2022-06-18 14:06:19.705] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/redhat.vscode-xml-0.20.0
+[2022-06-18 14:06:19.707] [sharedprocess] [info] Extracting completed. redhat.vscode-xml
+[2022-06-18 14:06:19.708] [sharedprocess] [info] Extension installed successfully: redhat.vscode-xml
+[2022-06-18 14:06:19.737] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.6ecff3c9-7465-414a-86ef-acd740bb4622: visualstudioexptteam.vscodeintellicode
+[2022-06-18 14:06:19.741] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.21
+[2022-06-18 14:06:19.744] [sharedprocess] [info] Extracting completed. visualstudioexptteam.vscodeintellicode
+[2022-06-18 14:06:19.744] [sharedprocess] [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+[2022-06-18 14:06:19.855] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.9c5c5fbf-21c3-424e-9747-6d6ffaa45372: tomoki1207.pdf
+[2022-06-18 14:06:19.858] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/tomoki1207.pdf-1.2.0
+[2022-06-18 14:06:19.862] [sharedprocess] [info] Extracting completed. tomoki1207.pdf
+[2022-06-18 14:06:19.862] [sharedprocess] [info] Extension installed successfully: tomoki1207.pdf
+[2022-06-18 14:06:20.147] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.f4097563-92b5-4f71-be1b-3e914cc2ac24: eamodio.gitlens
+[2022-06-18 14:06:20.156] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/eamodio.gitlens-12.1.1
+[2022-06-18 14:06:20.160] [sharedprocess] [info] Extracting completed. eamodio.gitlens
+[2022-06-18 14:06:20.163] [sharedprocess] [info] Extension installed successfully: eamodio.gitlens
+[2022-06-18 14:06:21.162] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.c2aabfd7-a585-4478-aa83-0a1dcc14d132: ms-python.python
+[2022-06-18 14:06:21.166] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/ms-python.python-2022.8.0
+[2022-06-18 14:06:21.170] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-06-18 14:06:21.170] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-06-18 14:06:22.040] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.2227ba58-8490-4209-a464-18b854fc7c52: ms-vscode.cpptools
+[2022-06-18 14:06:22.046] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/ms-vscode.cpptools-1.10.7-linux-x64
+[2022-06-18 14:06:22.055] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools
+[2022-06-18 14:06:22.056] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-06-18 14:06:22.460] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.4c62e659-db62-482e-8990-af30d307b30a: redhat.java
+[2022-06-18 14:06:22.464] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/redhat.java-1.7.0-linux-x64
+[2022-06-18 14:06:22.467] [sharedprocess] [info] Extracting completed. redhat.java
+[2022-06-18 14:06:22.467] [sharedprocess] [info] Extension installed successfully: redhat.java
+[2022-06-18 14:06:22.711] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.749aaf97-d105-4c3e-88cc-b1db9fffb9fd: ms-mssql.mssql
+[2022-06-18 14:06:22.716] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/ms-mssql.mssql-1.15.0
+[2022-06-18 14:06:22.718] [sharedprocess] [info] Extracting completed. ms-mssql.mssql
+[2022-06-18 14:06:22.718] [sharedprocess] [info] Extension installed successfully: ms-mssql.mssql
+[2022-06-18 14:06:23.395] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.013d3910-4d66-4e96-8182-ce0017efb1f2: wallabyjs.quokka-vscode
+[2022-06-18 14:06:23.402] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/wallabyjs.quokka-vscode-1.0.479
+[2022-06-18 14:06:23.403] [sharedprocess] [info] Extracting completed. wallabyjs.quokka-vscode
+[2022-06-18 14:06:23.404] [sharedprocess] [info] Extension installed successfully: wallabyjs.quokka-vscode
+[2022-06-18 14:06:24.606] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.d3d2d289-f516-4a74-bf64-4c5643cb0404: gabrielbb.vscode-lombok
+[2022-06-18 14:06:24.623] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/gabrielbb.vscode-lombok-1.0.1
+[2022-06-18 14:06:24.624] [sharedprocess] [info] Extracting completed. gabrielbb.vscode-lombok
+[2022-06-18 14:06:24.624] [sharedprocess] [info] Extension installed successfully: gabrielbb.vscode-lombok
+[2022-06-18 14:06:24.699] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.4f718faa-5246-4f95-bedf-e927b9f11b4b: pivotal.vscode-spring-boot
+[2022-06-18 14:06:24.965] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.181fac24-8cc7-4d18-9e52-7cb9f98d631f: ms-python.vscode-pylance
+[2022-06-18 14:06:24.989] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/ms-python.vscode-pylance-2022.6.20
+[2022-06-18 14:06:24.991] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-06-18 14:06:24.991] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-06-18 14:06:25.643] [sharedprocess] [info] Extracted extension to /home/nlmz94/.vscode/extensions/.90320a5a-87c7-482d-89c3-90f7d358c2d3: apollographql.vscode-apollo
+[2022-06-18 14:06:26.231] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/apollographql.vscode-apollo-1.19.11
+[2022-06-18 14:06:26.232] [sharedprocess] [info] Extracting completed. apollographql.vscode-apollo
+[2022-06-18 14:06:26.233] [sharedprocess] [info] Extension installed successfully: apollographql.vscode-apollo
+[2022-06-18 14:06:26.781] [sharedprocess] [info] Renamed to /home/nlmz94/.vscode/extensions/pivotal.vscode-spring-boot-1.36.0
+[2022-06-18 14:06:26.781] [sharedprocess] [info] Extracting completed. pivotal.vscode-spring-boot
+[2022-06-18 14:06:26.782] [sharedprocess] [info] Extension installed successfully: pivotal.vscode-spring-boot

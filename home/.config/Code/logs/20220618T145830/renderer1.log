@@ -1,0 +1,9 @@
+[2022-06-18 14:58:31.306] [renderer1] [warning] [redhat.vscode-xml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+[2022-06-18 14:58:31.307] [renderer1] [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+[2022-06-18 14:58:31.307] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-06-18 14:58:31.307] [renderer1] [warning] [vscjava.vscode-maven]: Cannot register 'maven.executable.path'. This property is already registered.
+[2022-06-18 14:58:42.729] [renderer1] [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+[2022-06-18 14:58:42.788] [renderer1] [info] [eamodio.gitlens]: `git.commit` is not a valid menu identifier
+[2022-06-18 14:58:44.101] [renderer1] [warning] [redhat.fabric8-analytics]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+[2022-06-18 14:58:44.101] [renderer1] [warning] [redhat.fabric8-analytics]: Cannot register 'maven.executable.path'. This property is already registered.
+[2022-06-18 14:58:44.101] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.

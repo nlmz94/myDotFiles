@@ -1,0 +1,61 @@
+#Defualt
+alias ls='ls --color=auto'
+alias dir='dir --color=auto'
+alias vdir='vdir --color=auto'
+alias grep='grep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias egrep='egrep --color=auto'
+alias diff='diff --color=auto'
+alias ip='ip --color=auto'
+
+
+# System aliases
+alias DS="doas systemctl"
+alias v="vim"
+alias nv="nvim"
+alias n="nano"
+alias dv="doas vim"
+alias dn="doas nano"
+alias dnv="doas nvim"
+alias r="ranger"
+alias dr="doas ranger"
+alias ka="killall"
+alias vpy="source /mnt/Data/Programing/.venv/bin/activate"
+# git
+alias g="git"
+alias gc="git clone --depth=1"
+
+# Internet
+alias ethspeed="speedometer -r enp2s0"
+alias wifispeed="speedometer -r wlp0s29u1u2u1"
+alias brup="nmcli connection up br0"
+alias brdown="nmcli connection down br0"
+
+# Changing "ls" to "exa"
+alias ls='exa -l --color=always --group-directories-first' # my preferred listing
+alias lla='exa -la --color=always --group-directories-first' # listing hidden
+alias la='exa -a --color=always --group-directories-first'  # all files and dirs
+alias ll='exa -l --color=always --group-directories-first'  # long format
+# alias lt='exa -aT --color=always --group-directories-first' # tree listing
+alias l.='exa -a | egrep "^\."'
+
+# pacman and yay paru
+alias pacsyu='doas pacman -Syyu'                 # update only standard pkgs
+alias pacsy='doas pacman -Sy'                    # install pkgs
+alias pacrns='doas pacman -Rns'                  # Remove pkgs
+alias yaysua='yay -Sua --noconfirm'              # update only AUR pkgs (yay)
+alias yaysyu='yay -Syu --noconfirm'              # update standard pkgs and AUR pkgs (yay)
+alias yays='yay -S'                 		 	 # install AUR pkgs (yay)
+alias parus='paru -S'                 		 	 # install AUR pkgs (paru)
+alias parsua='paru -Sua --noconfirm'             # update only AUR pkgs (paru)
+alias parsyu='paru -Syu --noconfirm'             # update standard pkgs and AUR pkgs (paru)
+alias unlock='doas rm /var/lib/pacman/db.lck'    # remove pacman lock
+alias cleanup='doas pacman -Rns (pacman -Qtdq)'  # remove orphaned packages
+
+# Colorize grep output (good for log files)
+alias grep='grep --color=auto'
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+
+# get error messages from journalctl
+alias jctl="journalctl -p 3 -xb"

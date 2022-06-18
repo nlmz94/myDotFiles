@@ -1,0 +1,12 @@
+[2022-06-18 15:40:41.794] [renderer1] [warning] [redhat.vscode-xml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+[2022-06-18 15:40:41.795] [renderer1] [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+[2022-06-18 15:40:41.795] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-06-18 15:40:41.795] [renderer1] [warning] [vscjava.vscode-maven]: Cannot register 'maven.executable.path'. This property is already registered.
+[2022-06-18 15:48:29.570] [renderer1] [warning] [redhat.vscode-xml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+[2022-06-18 15:48:29.570] [renderer1] [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+[2022-06-18 15:48:29.570] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-06-18 15:48:29.571] [renderer1] [warning] [vscjava.vscode-maven]: Cannot register 'maven.executable.path'. This property is already registered.
+[2022-06-18 15:50:14.519] [renderer1] [warning] [redhat.vscode-xml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+[2022-06-18 15:50:14.520] [renderer1] [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+[2022-06-18 15:50:14.520] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-06-18 15:50:14.520] [renderer1] [warning] [vscjava.vscode-maven]: Cannot register 'maven.executable.path'. This property is already registered.

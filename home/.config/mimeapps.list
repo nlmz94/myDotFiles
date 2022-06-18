@@ -1,0 +1,21 @@
+[Default Applications]
+text/plain=gneay.desktop
+inode/directory=pcmanfm.desktop
+image/png=feh.desktop
+application/pdf=org.pwmt.zathura-pdf-poppler.desktop
+
+[Added Associations]
+text/plain=geany.desktop;designer.desktop;
+inode/x-corrupted=geany.desktop;
+image/x-xcursor=geany.desktop;
+application/x-shellscript=geany.desktop;
+application/schema+json=geany.desktop;
+application/json=geany.desktop;
+application/xml=geany.desktop;
+text/x-csrc=geany.desktop;
+application/x-yaml=geany.desktop;
+image/jpeg=feh.desktop;
+image/png=feh.desktop;gimp.desktop;
+text/x-lua=geany.desktop;
+text/x-matlab=geany.desktop;
+application/pdf=org.pwmt.zathura-pdf-poppler.desktop;

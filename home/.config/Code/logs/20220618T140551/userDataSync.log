@@ -1,0 +1,92 @@
+[2022-06-18 14:05:52.604] [settingssync] [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+[2022-06-18 14:05:52.604] [settingssync] [info] Auto Sync is disabled.
+[2022-06-18 14:06:06.342] [settingssync] [info] Did reset the local sync state.
+[2022-06-18 14:06:09.029] [settingssync] [info] Settings: Updated local settings
+[2022-06-18 14:06:09.034] [settingssync] [info] Settings: Updated last synchronized settings
+[2022-06-18 14:06:09.041] [settingssync] [info] Keybindings: Updated local keybindings
+[2022-06-18 14:06:09.046] [settingssync] [info] Keybindings: Updated last synchronized keybindings
+[2022-06-18 14:06:09.048] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-06-18 14:06:09.052] [settingssync] [info] Snippets: Updated last synchronized snippets
+[2022-06-18 14:06:09.053] [settingssync] [info] Tasks: No changes found during synchronizing tasks.
+[2022-06-18 14:06:09.058] [settingssync] [info] Tasks: Updated last synchronized tasks
+[2022-06-18 14:06:09.067] [settingssync] [info] GlobalState: Updated global state ["cpp.1.lastSessionDate","cpp.1.sessionCount","java.2.lastSessionDate","java.2.sessionCount","javascript.1.lastSessionDate","javascript.1.sessionCount","typescript.1.lastSessionDate","typescript.1.sessionCount","ces/skipSurvey","extensionTips/promptedExecutableTips","workbench.view.remote.state.hidden","typescript.1.editedCount","typescript.1.editedDate","commandPalette.mru.cache","commandPalette.mru.counter","terminal.integrated.showTerminalConfigPrompt","fileBasedRecommendations/promptedFileExtensions","nps/isCandidate","nps/skipVersion","fileBasedRecommendations/promptedRecommendations","workbench.view.extension.test.state.hidden","workbench.welcomePage.walkthroughMetadata","workbench.view.extension.gitlens.state.hidden","workbench.view.extension.thunder-client-sidebar-view.state.hidden","workbench.view.extensions.state.hidden","workbench.view.extension.dockerView.state.hidden","memento/notebookGettingStarted2","workbench.view.extension.jupyter-variables.state.hidden","notebook.controller2TypeBindings","typescript.1.isCandidate","typescript.1.skipVersion","workbench.welcomePage.hiddenCategories","javascript.1.editedCount","javascript.1.editedDate","workbench.view.extension.tabnine-access.state.hidden","remote.explorerType","java.2.editedCount","java.2.editedDate","extensionsAssistant/languagePackSuggestionIgnore","memento/workbench.editor.keybindings","workbench.view.sync.state.hidden","javascript.1.isCandidate","javascript.1.skipVersion","workbench.sideBar.position","workbench.panel.alignment","workbench.activityBar.hidden","workbench.statusBar.hidden","workbench.view.extension.wallaby.state.hidden","workbench.view.extension.gitlensPanel.state.hidden","workbench.view.extension.objectExplorer.state.hidden","workbench.view.extension.dataworkspace.state.hidden","workbench.view.extension.liveshare.state.hidden","Comments.hidden","editor.contrib.largeFileOptimizationsWarner","cpp.1.editedCount","cpp.1.editedDate","workbench.scm.views.state.hidden","workbench.explorer.views.state.hidden","workbench.activity.pinnedViewlets2","nps/lastSessionDate","nps/sessionCount","workbench.statusbar.hidden","workbench.panel.pinnedPanels","memento/gettingStartedService"]
+[2022-06-18 14:06:09.067] [settingssync] [info] GlobalState: Updated local ui state
+[2022-06-18 14:06:09.071] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2022-06-18 14:06:09.762] [settingssync] [info] Extensions: Disabled extension dbaeumer.vscode-eslint 2.2.3
+[2022-06-18 14:06:11.856] [settingssync] [info] Extensions: Installed extension. natqe.reload 0.0.6
+[2022-06-18 14:06:11.936] [settingssync] [info] Extensions: Installed extension. jeff-hykin.better-cpp-syntax 1.15.18
+[2022-06-18 14:06:11.937] [settingssync] [info] Extensions: Installed extension. vscjava.vscode-spring-initializr 0.9.0
+[2022-06-18 14:06:11.961] [settingssync] [info] Extensions: Installed extension. ms-mssql.sql-bindings-vscode 0.2.0
+[2022-06-18 14:06:12.159] [settingssync] [info] Extensions: Installed extension. ms-vscode.cmake-tools 1.11.26
+[2022-06-18 14:06:12.166] [settingssync] [info] Extensions: Installed extension. whatwedo.twig 1.0.2
+[2022-06-18 14:06:12.281] [settingssync] [info] Extensions: Installed extension. dbaeumer.vscode-eslint 2.2.3
+[2022-06-18 14:06:12.530] [settingssync] [info] Extensions: Installed extension. esbenp.prettier-vscode 9.5.0
+[2022-06-18 14:06:12.550] [settingssync] [info] Extensions: Installed extension. ms-vscode.cpptools-extension-pack 1.2.0
+[2022-06-18 14:06:12.585] [settingssync] [info] Extensions: Installed extension. ms-mssql.sql-database-projects-vscode 0.17.1
+[2022-06-18 14:06:12.867] [settingssync] [info] Extensions: Installed extension. mechatroner.rainbow-csv 2.4.0
+[2022-06-18 14:06:12.977] [settingssync] [info] Extensions: Installed extension. redhat.fabric8-analytics 0.3.5
+[2022-06-18 14:06:13.010] [settingssync] [info] Extensions: Installed extension. vscjava.vscode-java-pack 0.23.0
+[2022-06-18 14:06:13.038] [settingssync] [info] Extensions: Installed extension. eg2.vscode-npm-script 0.3.25
+[2022-06-18 14:06:13.150] [settingssync] [info] Extensions: Installed extension. robbowen.synthwave-vscode 0.1.11
+[2022-06-18 14:06:13.171] [settingssync] [info] Extensions: Installed extension. syler.sass-indented 1.8.20
+[2022-06-18 14:06:13.470] [settingssync] [info] Extensions: Installed extension. vscjava.vscode-java-debug 0.41.0
+[2022-06-18 14:06:13.528] [settingssync] [info] Extensions: Installed extension. mhutchie.git-graph 1.30.0
+[2022-06-18 14:06:13.619] [settingssync] [info] Extensions: Installed extension. vscjava.vscode-spring-boot-dashboard 0.4.0
+[2022-06-18 14:06:13.634] [settingssync] [info] Extensions: Installed extension. golang.go 0.33.1
+[2022-06-18 14:06:13.778] [settingssync] [info] Extensions: Installed extension. hashicorp.terraform 2.23.0
+[2022-06-18 14:06:14.071] [settingssync] [info] Extensions: Installed extension. geeksharp.openssl-configuration-file 0.0.1
+[2022-06-18 14:06:14.077] [settingssync] [info] Extensions: Installed extension. redhat.vscode-yaml 1.8.0
+[2022-06-18 14:06:14.144] [settingssync] [info] Extensions: Installed extension. cschlosser.doxdocgen 1.4.0
+[2022-06-18 14:06:14.423] [settingssync] [info] Extensions: Installed extension. ms-azuretools.vscode-docker 1.22.0
+[2022-06-18 14:06:14.595] [settingssync] [info] Extensions: Installed extension. vscjava.vscode-maven 0.35.2
+[2022-06-18 14:06:14.730] [settingssync] [info] Extensions: Installed extension. ritwickdey.liveserver 5.7.5
+[2022-06-18 14:06:15.237] [settingssync] [info] Extensions: Installed extension. christian-kohler.npm-intellisense 1.4.2
+[2022-06-18 14:06:15.564] [settingssync] [info] Extensions: Installed extension. pkief.material-icon-theme 4.18.1
+[2022-06-18 14:06:15.629] [settingssync] [info] Extensions: Installed extension. xdebug.php-debug 1.27.0
+[2022-06-18 14:06:16.139] [settingssync] [info] Extensions: Installed extension. prisma.prisma 3.15.0
+[2022-06-18 14:06:16.185] [settingssync] [info] Extensions: Installed extension. ritwickdey.live-sass 3.0.0
+[2022-06-18 14:06:16.466] [settingssync] [info] Extensions: Installed extension. syler.ignore 0.0.4
+[2022-06-18 14:06:16.571] [settingssync] [info] Extensions: Installed extension. pivotal.vscode-boot-dev-pack 0.1.0
+[2022-06-18 14:06:16.876] [settingssync] [info] Extensions: Installed extension. 4ops.terraform 0.2.5
+[2022-06-18 14:06:16.907] [settingssync] [info] Extensions: Installed extension. zobo.php-intellisense 1.0.8
+[2022-06-18 14:06:16.981] [settingssync] [info] Extensions: Installed extension. justusadam.language-haskell 3.6.0
+[2022-06-18 14:06:17.320] [settingssync] [info] Extensions: Installed extension. xdebug.php-pack 1.0.3
+[2022-06-18 14:06:17.425] [settingssync] [info] Extensions: Installed extension. ms-vscode.cpptools-themes 1.0.0
+[2022-06-18 14:06:17.901] [settingssync] [info] Extensions: Installed extension. ms-toolsai.jupyter 2022.5.1001601848
+[2022-06-18 14:06:18.330] [settingssync] [info] Extensions: Installed extension. angular.ng-template 14.0.1
+[2022-06-18 14:06:18.715] [settingssync] [info] Extensions: Installed extension. ms-mssql.data-workspace-vscode 0.2.1
+[2022-06-18 14:06:18.770] [settingssync] [info] Extensions: Installed extension. adpyke.vscode-sql-formatter 1.4.4
+[2022-06-18 14:06:19.272] [settingssync] [info] Extensions: Installed extension. twxs.cmake 0.0.17
+[2022-06-18 14:06:19.708] [settingssync] [info] Extensions: Installed extension. redhat.vscode-xml 0.20.0
+[2022-06-18 14:06:19.744] [settingssync] [info] Extensions: Installed extension. visualstudioexptteam.vscodeintellicode 1.2.21
+[2022-06-18 14:06:19.862] [settingssync] [info] Extensions: Installed extension. tomoki1207.pdf 1.2.0
+[2022-06-18 14:06:20.163] [settingssync] [info] Extensions: Installed extension. eamodio.gitlens 12.1.1
+[2022-06-18 14:06:21.170] [settingssync] [info] Extensions: Installed extension. ms-python.python 2022.8.0
+[2022-06-18 14:06:22.056] [settingssync] [info] Extensions: Installed extension. ms-vscode.cpptools 1.10.7
+[2022-06-18 14:06:22.467] [settingssync] [info] Extensions: Installed extension. redhat.java 1.7.0
+[2022-06-18 14:06:22.718] [settingssync] [info] Extensions: Installed extension. ms-mssql.mssql 1.15.0
+[2022-06-18 14:06:23.404] [settingssync] [info] Extensions: Installed extension. wallabyjs.quokka-vscode 1.0.479
+[2022-06-18 14:06:24.624] [settingssync] [info] Extensions: Installed extension. gabrielbb.vscode-lombok 1.0.1
+[2022-06-18 14:06:24.991] [settingssync] [info] Extensions: Installed extension. ms-python.vscode-pylance 2022.6.20
+[2022-06-18 14:06:26.234] [settingssync] [info] Extensions: Installed extension. apollographql.vscode-apollo 1.19.11
+[2022-06-18 14:06:26.782] [settingssync] [info] Extensions: Installed extension. pivotal.vscode-spring-boot 1.36.0
+[2022-06-18 14:06:26.865] [settingssync] [info] Extensions: Updated last synchronized extensions.
+[2022-06-18 14:06:26.888] [settingssync] [info] Auto Sync: Started
+[2022-06-18 14:06:26.889] [settingssync] [info] Auto Sync: Triggered by Interval
+[2022-06-18 14:06:27.361] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-06-18 14:06:27.364] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-06-18 14:06:27.366] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-06-18 14:06:27.368] [settingssync] [info] Tasks: No changes found during synchronizing tasks.
+[2022-06-18 14:06:27.875] [settingssync] [info] GlobalState: Updated remote ui state
+[2022-06-18 14:06:27.878] [settingssync] [info] GlobalState: Updated last synchronized ui state
+[2022-06-18 14:06:28.883] [settingssync] [info] Extensions: Updated remote extensions. Updated: ["eamodio.gitlens"].
+[2022-06-18 14:06:28.887] [settingssync] [info] Extensions: Updated last synchronized extensions.
+[2022-06-18 14:06:28.889] [settingssync] [info] Sync done. Took 1548ms
+[2022-06-18 14:06:29.364] [settingssync] [info] Auto Sync: Triggered by Activity
+[2022-06-18 14:06:29.441] [settingssync] [info] Settings: No changes found during synchronizing settings.
+[2022-06-18 14:06:29.444] [settingssync] [info] Keybindings: No changes found during synchronizing keybindings.
+[2022-06-18 14:06:29.447] [settingssync] [info] Snippets: No changes found during synchronizing snippets.
+[2022-06-18 14:06:29.450] [settingssync] [info] Tasks: No changes found during synchronizing tasks.
+[2022-06-18 14:06:29.453] [settingssync] [info] GlobalState: No changes found during synchronizing ui state.
+[2022-06-18 14:06:29.511] [settingssync] [info] Extensions: No changes found during synchronizing extensions.
+[2022-06-18 14:06:29.512] [settingssync] [info] Sync done. Took 83ms

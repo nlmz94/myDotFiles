@@ -1,0 +1,14 @@
+[2022-06-18 12:22:05.752] [GIT  ] [/home/nlmz94/.config/awesome] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). • 6 ms
+
+[2022-06-18 12:22:12.968] [GIT  ] [/home/nlmz94/.config/awesome] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). • 10 ms
+
+[2022-06-18 12:22:14.358] [GIT  ] [/home/nlmz94/.config/awesome] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). • 6 ms
+
+[2022-06-18 12:40:25.780] [GIT  ] [/home/nlmz94/.config/awesome/configuration] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). • 7 ms
+
+[2022-06-18 12:40:26.502] [GIT  ] [/home/nlmz94/.config/awesome/configuration] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). • 8 ms
+
+[2022-06-18 12:40:29.873] [GIT  ] [/home/nlmz94/.config/awesome/configuration] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). • 6 ms
+
+[2022-06-18 12:40:31.189] [GIT  ] [/home/nlmz94/.config/awesome/configuration] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). • 6 ms
+

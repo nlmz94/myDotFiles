@@ -1,0 +1,46 @@
+[2022-06-18 14:22:09.184] Starting Git Graph ...
+[2022-06-18 14:22:09.219] Using git (version: 2.36.1)
+[2022-06-18 14:22:09.221] Started Git Graph - Ready to use!
+[2022-06-18 14:22:09.221] Searching workspace for new repos ...
+[2022-06-18 14:22:09.226] > git rev-parse --show-toplevel
+[2022-06-18 14:22:09.228] Completed searching workspace for new repos
+[2022-06-18 14:22:09.234] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2022-06-18 14:37:48.996] > git rev-parse --show-toplevel
+[2022-06-18 14:37:49.003] > git rev-parse --show-toplevel
+[2022-06-18 14:37:49.009] > git rev-parse --show-toplevel
+[2022-06-18 14:37:49.015] > git rev-parse --show-toplevel
+[2022-06-18 14:37:49.022] > git rev-parse --show-toplevel
+[2022-06-18 14:37:49.027] > git rev-parse --show-toplevel
+[2022-06-18 14:37:49.032] > git rev-parse --show-toplevel
+[2022-06-18 14:37:49.041] > git rev-parse --show-toplevel
+[2022-06-18 14:37:49.047] > git rev-parse --show-toplevel
+[2022-06-18 14:37:49.053] > git rev-parse --show-toplevel
+[2022-06-18 14:37:49.057] > git rev-parse --show-toplevel
+[2022-06-18 14:37:49.063] > git rev-parse --show-toplevel
+[2022-06-18 14:37:49.070] > git rev-parse --show-toplevel
+[2022-06-18 14:37:49.075] > git rev-parse --show-toplevel
+[2022-06-18 14:37:49.081] > git rev-parse --show-toplevel
+[2022-06-18 14:37:49.086] > git rev-parse --show-toplevel
+[2022-06-18 14:37:49.091] > git rev-parse --show-toplevel
+[2022-06-18 14:37:49.096] > git rev-parse --show-toplevel
+[2022-06-18 14:37:49.102] > git rev-parse --show-toplevel
+[2022-06-18 14:43:57.243] > git rev-parse --show-toplevel
+[2022-06-18 14:43:57.250] > git rev-parse --show-toplevel
+[2022-06-18 14:43:57.255] > git rev-parse --show-toplevel
+[2022-06-18 14:43:57.261] > git rev-parse --show-toplevel
+[2022-06-18 14:43:57.268] > git rev-parse --show-toplevel
+[2022-06-18 14:43:57.276] > git rev-parse --show-toplevel
+[2022-06-18 14:43:57.282] > git rev-parse --show-toplevel
+[2022-06-18 14:43:57.288] > git rev-parse --show-toplevel
+[2022-06-18 14:43:57.296] > git rev-parse --show-toplevel
+[2022-06-18 14:43:57.303] > git rev-parse --show-toplevel
+[2022-06-18 14:43:57.311] > git rev-parse --show-toplevel
+[2022-06-18 14:43:57.317] > git rev-parse --show-toplevel
+[2022-06-18 14:43:57.325] > git rev-parse --show-toplevel
+[2022-06-18 14:43:57.332] > git rev-parse --show-toplevel
+[2022-06-18 14:43:57.340] > git rev-parse --show-toplevel
+[2022-06-18 14:43:57.347] > git rev-parse --show-toplevel
+[2022-06-18 14:43:57.354] > git rev-parse --show-toplevel
+[2022-06-18 14:43:57.361] > git rev-parse --show-toplevel
+[2022-06-18 14:43:57.370] > git rev-parse --show-toplevel
+[2022-06-18 14:43:57.378] > git rev-parse --show-toplevel

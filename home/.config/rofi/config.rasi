@@ -1,0 +1,25 @@
+/*
+* AUTHOR: Luca
+*/
+ 
+configuration{
+    modi: "run,drun,window,emoji";
+    font:                        "Cascadia Code Bold 12";
+    prompt-font:                 "Cascadia Code Bold 12";
+    show-icons: true;
+    icon-theme: "Papirus-Dark";
+    terminal: "kitty";
+    drun-display-format: "{icon} {name}";
+    disable-history: false;
+    hide-scrollbar: false;
+    display-drun: "  Apps ";
+    display-run: "  Run ";
+    display-emoji: " 🫢 emoji ";
+    display-window: " 﩯 Window";
+    display-Network: " 󰤨 Network";
+    sidebar-mode: true;
+    opacity: 80;
+}
+
+@theme "~/.config/rofi/themes/otis-forest.rasi"
+

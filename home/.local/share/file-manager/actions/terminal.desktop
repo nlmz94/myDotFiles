@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Action
+Name=terminal
+Profiles=1;
+
+Icon=gnome-terminal
+
+[X-Action-Profile 1]
+Exec=kitty
+MimeTypes=inode/directory;

@@ -1,0 +1,13 @@
+in.thekalinga.snippet.intellij
+Key Promoter X
+com.mallowigi
+mobi.hsz.idea.gitignore
+com.wix.sasslint
+ru.adelf.idea.dotenv
+ski.chrzanow.foldableprojectview
+com.deadsilly.blackbird.theme
+net.seesharpsoft.intellij.plugins.csv
+com.intellij.lang.jsgraphql
+com.chrisrm.idea.MaterialThemeUI
+fr.gabrielcolson.prisma.prisma-intellij-plugin
+com.jetbrains.twig

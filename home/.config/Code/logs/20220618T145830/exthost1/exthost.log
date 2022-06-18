@@ -1,0 +1,73 @@
+[2022-06-18 14:58:31.872] [exthost] [info] Extension host with pid 117356 started
+[2022-06-18 14:58:31.872] [exthost] [info] Skipping acquiring lock for /home/nlmz94/.config/Code/User/workspaceStorage/b08ab913451ece218e18aa1c6bd6ded9.
+[2022-06-18 14:58:31.936] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+[2022-06-18 14:58:31.938] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-06-18 14:58:31.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-18 14:58:31.950] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-18 14:58:31.951] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-18 14:58:31.953] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+[2022-06-18 14:58:31.961] [exthost] [info] ExtensionService#_doActivateExtension ms-mssql.data-workspace-vscode, startup: true, activationEvent: '*'
+[2022-06-18 14:58:31.981] [exthost] [info] ExtensionService#_doActivateExtension natqe.reload, startup: true, activationEvent: '*'
+[2022-06-18 14:58:31.982] [exthost] [info] ExtensionService#_doActivateExtension RobbOwen.synthwave-vscode, startup: true, activationEvent: '*'
+[2022-06-18 14:58:31.985] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-06-18 14:58:32.192] [exthost] [info] ExtensionService#_doActivateExtension ms-mssql.mssql, startup: false, activationEvent: 'api', root cause: ms-mssql.data-workspace-vscode
+[2022-06-18 14:58:32.411] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-18 14:58:32.421] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-18 14:58:32.492] [exthost] [info] Eager extensions activated
+[2022-06-18 14:58:32.494] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-06-18 14:58:32.516] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-18 14:58:32.520] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-18 14:58:32.521] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-18 14:58:32.544] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-18 14:58:32.602] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-18 14:58:32.608] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-18 14:58:33.384] [exthost] [info] ExtensionService#_doActivateExtension ms-mssql.sql-database-projects-vscode, startup: false, activationEvent: 'api', root cause: ms-mssql.data-workspace-vscode
+[2022-06-18 14:58:33.465] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-18 14:58:33.469] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-18 14:58:33.521] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-18 14:58:42.049] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-06-18 14:58:42.090] [exthost] [error] Error: read ECONNRESET
+	at Pipe.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-06-18 14:58:42.091] [exthost] [info] Extension host with pid 117356 exiting with code 0
+[2022-06-18 14:58:43.183] [exthost] [info] Extension host with pid 117645 started
+[2022-06-18 14:58:43.183] [exthost] [info] Skipping acquiring lock for /home/nlmz94/.config/Code/User/workspaceStorage/951fadb2bc6a11187e91af8a9b819f89.
+[2022-06-18 14:58:43.223] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-06-18 14:58:43.233] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-18 14:58:43.234] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-06-18 14:58:43.235] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-18 14:58:43.237] [exthost] [info] ExtensionService#_doActivateExtension ms-mssql.data-workspace-vscode, startup: true, activationEvent: '*'
+[2022-06-18 14:58:43.243] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode, startup: true, activationEvent: '*'
+[2022-06-18 14:58:43.361] [exthost] [info] ExtensionService#_doActivateExtension ms-mssql.mssql, startup: false, activationEvent: 'api', root cause: ms-mssql.data-workspace-vscode
+[2022-06-18 14:58:43.557] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-18 14:58:43.579] [exthost] [info] Eager extensions activated
+[2022-06-18 14:58:43.581] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-18 14:58:43.584] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-18 14:58:43.585] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-18 14:58:43.614] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-18 14:58:43.679] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-18 14:58:43.696] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-06-18 14:58:45.479] [exthost] [info] ExtensionService#_doActivateExtension ms-mssql.sql-database-projects-vscode, startup: false, activationEvent: 'api', root cause: ms-mssql.data-workspace-vscode
+[2022-06-18 14:58:45.550] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-06-18 14:58:45.603] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+[2022-06-18 14:58:45.612] [exthost] [info] ExtensionService#_doActivateExtension natqe.reload, startup: false, activationEvent: '*'
+[2022-06-18 14:58:45.613] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-18 14:58:45.665] [exthost] [info] ExtensionService#_doActivateExtension RobbOwen.synthwave-vscode, startup: false, activationEvent: '*'
+[2022-06-18 14:58:45.728] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.live-sass, startup: false, activationEvent: 'workspaceContains:**/*.s[ac]ss'
+[2022-06-18 15:00:07.131] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-18 15:00:07.201] [exthost] [info] ExtensionService#_doActivateExtension redhat.vscode-yaml, startup: false, activationEvent: 'onLanguage:yaml'
+[2022-06-18 15:00:07.397] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+[2022-06-18 15:00:07.493] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-06-18 15:00:07.494] [exthost] [warning] [redhat.vscode-yaml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[yaml]', provide the URI of a resource or 'null' for any resource.
+[2022-06-18 15:00:19.159] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-18 15:01:26.779] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-18 15:01:30.471] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-18 15:01:31.354] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-18 15:03:12.271] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-18 15:03:12.900] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-18 15:03:13.679] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-18 15:03:59.885] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-18 15:07:00.825] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-18 15:07:03.665] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-18 15:07:14.627] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-18 15:08:47.340] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-06-18 15:08:47.378] [exthost] [info] Extension host with pid 117645 exiting with code 0

@@ -1,0 +1,10 @@
+#!/bin/sh
+
+# cursors :
+doas cp -r cursors/* /usr/share/icons/
+
+# gtk :
+doas cp -r gtk/* /usr/share/themes/
+
+# kvantum :
+doas cp -r kvantum/* /usr/share/Kvantum/

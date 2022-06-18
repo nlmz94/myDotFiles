@@ -1,0 +1,21 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactFields" value="true" />
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="allowDataCollection" value="true" />
+    <option name="autoResetColorScheme" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isCompactFields" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="tabsHeight" value="28" />
+    <option name="accentColor" value="5294e2" />
+    <option name="selectedTheme" value="ARC_DARK" />
+    <option name="userId" value="16ca3ce3:17c54f26efc:-8000" />
+    <option name="version" value="7.5.2.2" />
+  </component>
+</application>

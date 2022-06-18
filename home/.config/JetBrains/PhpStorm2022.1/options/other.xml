@@ -1,0 +1,44 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2AiH3rnXlyrRDsNaXxLUC4XkEQG">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "PhpStorm.InitialConfiguration": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "PS-221.5787.33-b1af592aea477b608e02a7482af19ad03db521fdbceae1c40318d3fc0136bffe",
+    "bundled.plugins.list.saved.version": "PS-221.5787.33",
+    "evlsprt3.221": "26",
+    "file.gist.reindex.count": "1",
+    "fileTypeChangedCounter": "1",
+    "got.it.tooltip.cwm.invitation.notification": "1",
+    "gotit.previous.run": "PS-221.5787.33",
+    "ide.memory.adjusted": "true",
+    "ide.updates.old.dirs.scan.scheduled": "1656090090544",
+    "input.method.disabler.muted": "true",
+    "registry.to.advanced.settings.migration.build": "PS-221.5787.33",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.6.3"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

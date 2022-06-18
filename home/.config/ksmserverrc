@@ -1,0 +1,22 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+clientMachine1=localhost
+clientMachine2=localhost
+command1=pcmanfm
+command2=geany
+count=2
+
+[Session: saved at previous logout]
+clientId1=10103c2d7cf000165555419500000157320004
+clientId2=10103c2d7cf000165550268000000008930016
+count=2
+program1=/usr/lib/DiscoverNotifier
+program2=firefox
+restartCommand1=/usr/lib/DiscoverNotifier,-session,10103c2d7cf000165555419500000157320004_1655557857_746889
+restartCommand2=/usr/lib/firefox-developer-edition/firefox,--sm-client-id,10103c2d7cf000165550268000000008930016
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=nlmz94
+userId2=nlmz94

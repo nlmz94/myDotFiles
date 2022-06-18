@@ -1,0 +1,60 @@
+#!/bin/sh
+# installing Pakages :
+# Pkgs :
+
+Green='\033[0;32m'        # Green
+Cyan='\033[1;36m'        # Cyan
+No='\e[0m'
+clear
+echo -e "${Cyan}Installing WM ...${No}"
+echo ""
+read -p "Do you want to install awesome-wm ? [y/n] : " answer
+if [[ $answer = y ]] ; then
+	printf "${Cyan}Installing awesome ${No}"
+	#doas pacman -Sy --needed awesome
+	yay -Sy --needed awesome-git
+	doas sed -i '/\["dk"] = true,    -- Denmark/a\\t["dz"] = true,    -- Algeria' /usr/share/awesome/lib/awful/widget/keyboardlayout.lua
+fi
+echo -e "${Cyan}Installing Packeges ...${No}"
+doas pacman -Rns sudo
+sudo pacman -Sy --needed xcompmgr xdotool acpi xsel xfce4-power-manager lxappearance nitrogen feh kitty pacman-contrib xclip rsync dunst arandr sxhkd pcmanfm-gtk3 obs-studio pamixer brightnessctl maim gnome-disk-utility cups xcalib exa ghex cherrytree mpv audacious gst-libav net-tools gpick gdb curl wget alacritty terminator python-pip tk xterm tor cmatrix htop neofetch zsh veracrypt engrampa p7zip unzip cdrtools gufw android-tools ranger rofi geany neovim inetutils dnsutils macchanger zathura zathura-ps zathura-djvu zathura-pdf-poppler qt5ct qt6ct kvantum-qt5 ffmpegthumbnailer tumbler grub-customizer mtpfs gvfs-mtp gvfs-gphoto2 qbittorrent btop qalculate-gtk volumeicon remmina freerdp qt5-tools python-pyqt5 qt6-tools python-pyqt6 intel-media-driver mesa-utils rhash libva-utils numlockx
+
+echo "QT_QPA_PLATFORMTHEME=qt5ct" | doas tee -a /etc/environment
+echo -e "${Green}Installing Packages Done ${No}"
+echo ""
+echo ""
+
+# Fonts :
+echo -e "${Cyan}Installing Fonts ...${No}"
+sudo pacman -Sy --needed adobe-source-han-sans-otc-fonts adobe-source-han-serif-otc-fonts ttf-dejavu powerline-fonts noto-fonts noto-fonts-emoji noto-fonts-cjk ttf-jetbrains-mono ttf-cascadia-code ttf-joypixels ttf-font-awesome ttf-hack ttf-roboto ttf-roboto-mono ttf-liberation ttf-monofur 
+echo -e "${Green}Installing Fonts Done ${No}"
+echo ""
+echo ""
+
+# Aur :
+echo -e "${Cyan}Installing Aur Packeges ... ${No}"
+yay -Sy --needed libxft-bgra bcm43142a0-firmware aic94xx-firmware xkb-switch scrcpy jmtpfs shell-color-scripts papirus-icon-theme papirus-folders ueberzug yt-dlp picom-jonaburg-git
+libtool --finish /usr/lib
+#doas papirus-folders -C yaru --theme Papirus-Dark
+doas papirus-folders -C bluegrey --theme Papirus-Dark
+
+echo -e "${Green}Installing Aur Packeges Done ${No}"
+echo ""
+echo ""
+
+# Aur Fonts :
+echo -e "${Cyan}Installing Aur Fonts ... ${No}"
+yay -Sy --needed ttf-meslo-nerd-font-powerlevel10k nerd-fonts-jetbrains-mono
+
+echo -e  "${Green}Installing Aur Fonts Done ${No}"
+echo ""
+echo ""
+#echo -e "${Cyan}Dont forget to compile DWM in Suckless folder${No}"
+
+echo -e "${Cyan}Enabling Bluetooth ... ${No}"
+doas modprobe -r btusb && doas modprobe btusb
+echo -e "${Cyan}Bluetooth Enabled${No}"
+echo -e "${Cyan}Switching to zsh Shell ...${No}"
+chsh -s /bin/zsh
+mkdir -p ~/Pictures/screenshots
+echo -e "${Cyan}All Done ${No}"

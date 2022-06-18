@@ -1,0 +1,26 @@
+[2022-06-18T13:15:55.364Z] Log level: Info
+[2022-06-18T13:15:55.365Z] [info] Validating found git in: git
+[2022-06-18T13:15:55.738Z] [info] Using git 2.36.1 from git
+[2022-06-18T13:15:55.751Z] > git rev-parse --show-toplevel [5ms]
+[2022-06-18T13:15:55.758Z] > git rev-parse --git-dir --git-common-dir [1ms]
+[2022-06-18T13:15:55.761Z] [info] Open repository: /home/nlmz94/Documents/dotfiles
+[2022-06-18T13:15:56.115Z] > git show --textconv :home/install [15ms]
+[2022-06-18T13:15:56.115Z] > git ls-files --stage -- /home/nlmz94/Documents/dotfiles/home/install [10ms]
+[2022-06-18T13:15:56.121Z] > git cat-file -s 1a4c3ecd2a96708241a4e172da171c2d110da4fd [1ms]
+[2022-06-18T13:15:56.247Z] > git fetch [482ms]
+[2022-06-18T13:15:56.287Z] > git check-ignore -v -z --stdin [5ms]
+[2022-06-18T13:15:56.385Z] > git status -z -uall [615ms]
+[2022-06-18T13:15:56.392Z] > git symbolic-ref --short HEAD [1ms]
+[2022-06-18T13:15:56.398Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+[2022-06-18T13:15:56.410Z] > git remote --verbose [1ms]
+[2022-06-18T13:15:56.411Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2022-06-18T13:15:56.418Z] > git config --get commit.template [1ms]
+[2022-06-18T13:15:56.554Z] > git status -z -uall [130ms]
+[2022-06-18T13:15:56.558Z] > git symbolic-ref --short HEAD [0ms]
+[2022-06-18T13:15:56.562Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+[2022-06-18T13:15:56.568Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+[2022-06-18T13:15:56.568Z] > git remote --verbose [0ms]
+[2022-06-18T13:15:56.574Z] > git config --get commit.template [1ms]
+[2022-06-18T13:15:57.435Z] > git ls-files --stage -- /home/nlmz94/Documents/dotfiles/home/install [1ms]
+[2022-06-18T13:15:57.442Z] > git cat-file -s 1a4c3ecd2a96708241a4e172da171c2d110da4fd [1ms]
+[2022-06-18T13:15:57.453Z] > git show --textconv :home/install [1ms]

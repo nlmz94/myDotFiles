@@ -1,0 +1,14 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.explorerKind": "external",
+    "terminal.external.linuxExec": "terminator",
+    "python.terminal.executeInFileDir": true,
+    "window.menuBarVisibility": "toggle",
+    "editor.fontSize": 20,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.minimap.enabled": false,
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Sweet Mars"
+}

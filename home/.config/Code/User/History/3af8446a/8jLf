@@ -1,0 +1,4 @@
+#!/bin/sh
+
+sudo mkdir -p /usr/share/xsessions
+sudo cp -r dwm.desktop /usr/share/xsessions/
